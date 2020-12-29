@@ -49,4 +49,158 @@
 			}
 		]
 	},
+	{
+		"line":"Kelana Jaya",
+		"type":"lrt",
+		"station":[
+			{
+				"code":"KJ37",
+				"nama":"Putra Height",
+			},
+			{
+				"code":"KJ36",
+				"nama":"Subang Alam",
+			},
+			{
+				"code":"KJ35",
+				"nama":"Alam Megah",
+			},
+			{
+				"code":"KJ34",
+				"nama":"USJ 21",
+			},
+			{
+				"code":"KJ33",
+				"nama":"Wawasan",
+			},
+			{
+				"code":"KJ32",
+				"nama":"Taipan",
+			},
+			{
+				"code":"KJ31",
+				"nama":"USJ 7",
+			},
+			{
+				"code":"KJ30",
+				"nama":"SS 18",
+			},
+			{
+				"code":"KJ29",
+				"nama":"SS 15",
+			},
+			{
+				"code":"KJ28",
+				"nama":"Subang Jaya",
+			},
+			{
+				"code":"KJ27",
+				"nama":"Glenmarie",
+			},
+			{
+				"code":"KJ26",
+				"nama":"Ara Damansara",
+			},
+			{
+				"code":"KJ25",
+				"nama":"Lembah Subang",
+			},
+			{
+				"code":"KJ24",
+				"nama":"Kelana Jaya",
+			},
+			{
+				"code":"KJ23",
+				"nama":"Taman Bahagia",
+			},
+			{
+				"code":"KJ22",
+				"nama":"Taman Paramount",
+			},
+			{
+				"code":"KJ21",
+				"nama":"Asia Jaya",
+			},
+			{
+				"code":"KJ20",
+				"nama":"Taman Jaya",
+			},
+			{
+				"code":"KJ19",
+				"nama":"Universiti",
+			},
+			{
+				"code":"KJ18",
+				"nama":"Kerinchi",
+			},
+			{
+				"code":"KJ17",
+				"nama":"Abdullah Hukum",
+			},
+			{
+				"code":"KJ16",
+				"nama":"Bangsar",
+			},
+			{
+				"code":"KJ15",
+				"nama":"KL Sentral",
+			},
+			{
+				"code":"KJ14",
+				"nama":"Pasar Seni",
+			},
+			{
+				"code":"KJ13",
+				"nama":"Masjid Jamek",
+			},
+			{
+				"code":"KJ12",
+				"nama":"Dang Wangi",
+			},
+			{
+				"code":"KJ11",
+				"nama":"Kampung Baru",
+			},
+			{
+				"code":"KJ10",
+				"nama":"KLCC",
+			},
+			{
+				"code":"KJ9",
+				"nama":"Ampang Park",
+			},
+			{
+				"code":"KJ8",
+				"nama":"Damai",
+			},
+			{
+				"code":"KJ7",
+				"nama":"Dato' Keramat",
+			},
+			{
+				"code":"KJ6",
+				"nama":"Jelatek",
+			},
+			{
+				"code":"KJ5",
+				"nama":"Setiawangsa",
+			},
+			{
+				"code":"KJ4",
+				"nama":"Sri Rampai",
+			},
+			{
+				"code":"KJ3",
+				"nama":"Wangsa Maju",
+			},
+			{
+				"code":"KJ2",
+				"nama":"Taman Melati",
+			},
+			{
+				"code":"KJ1",
+				"nama":"Gombak",
+			},
+		]
+	},
 ]
