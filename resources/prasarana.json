@@ -403,4 +403,134 @@
 			},
 		]
 	},
+	{
+		"line":"Sungai Buloh - Kajang",
+		"type":"mrt",
+		"station":[
+			{
+				"code":"SBK01",
+				"nama":"Sungai Buloh",
+			},
+			{
+				"code":"SBK02",
+				"nama":"Kampung Selamat",
+			},
+			{
+				"code":"SBK04",
+				"nama":"Kwasa Damansara",
+			},
+			{
+				"code":"SBK05",
+				"nama":"Kwasa Sentral",
+			},
+			{
+				"code":"SBK06",
+				"nama":"Kota Damansara",
+			},
+			{
+				"code":"SBK07",
+				"nama":"Surian",
+			},
+			{
+				"code":"SBK08",
+				"nama":"Mutiara Damansara",
+			},
+			{
+				"code":"SBK09",
+				"nama":"Bandar Utama",
+			},
+			{
+				"code":"SBK10",
+				"nama":"Taman Tun Dr Ismail",
+			},
+			{
+				"code":"SBK12",
+				"nama":"Phileo Damansara",
+			},
+			{
+				"code":"SBK13",
+				"nama":"Pusat Bandar Damansara",
+			},
+			{
+				"code":"SBK14",
+				"nama":"Semantan",
+			},
+			{
+				"code":"SBK15",
+				"nama":"Muzium Negara",
+			},
+			{
+				"code":"SBK16",
+				"nama":"Pasar Seni",
+			},
+			{
+				"code":"SBK17",
+				"nama":"Merdeka",
+			},
+			{
+				"code":"SBK18A",
+				"nama":"Bukit Bintang",
+			},
+			{
+				"code":"SBK20",
+				"nama":"Tun Razak Exchange",
+			},
+			{
+				"code":"SBK21",
+				"nama":"Cochrane",
+			},
+			{
+				"code":"SBK22",
+				"nama":"Maluri",
+			},
+			{
+				"code":"SBK23",
+				"nama":"Taman Pertama",
+			},
+			{
+				"code":"SBK24",
+				"nama":"Taman Midah",
+			},
+			{
+				"code":"SBK25",
+				"nama":"Taman Mutiara",
+			},
+			{
+				"code":"SBK26",
+				"nama":"Taman Connaught",
+			},
+			{
+				"code":"SBK27",
+				"nama":"Taman Suntex",
+			},			
+			{
+				"code":"SBK28",
+				"nama":"Sri raya",
+			},
+			{
+				"code":"SBK29",
+				"nama":"Bandar Tun Hussein Onn",
+			},
+			{
+				"code":"SBK30",
+				"nama":"Batu 11 Cheras",
+			},
+			{
+				"code":"SBK31",
+				"nama":"Bukit Dukung",
+			},
+			{
+				"code":"SBK33",
+				"nama":"Sungai Jernih",
+			},
+			{
+				"code":"SBK34",
+				"nama":"Stadium Kajang",
+			},
+			{
+				"code":"SBK35",
+				"nama":"Kajang",
+			},
+		]
+	}
 ]
