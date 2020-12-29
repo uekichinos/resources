@@ -1,4 +1,52 @@
 [
-	{},
-	{},
+	{
+		"line":"KL Monorail",
+		"type":"monorail",
+		"station":[
+			{
+				"code":"MR1",
+				"nama":"KL Sentral",
+			},
+			{
+				"code":"MR2",
+				"nama":"Tun Sambathan",
+			},
+			{
+				"code":"MR3",
+				"nama":"Maharajalela",
+			},
+			{
+				"code":"MR4",
+				"nama":"Hang Tuah",
+			},
+			{
+				"code":"MR5",
+				"nama":"Imbi",
+			},
+			{
+				"code":"MR6",
+				"nama":"Bukit Bintang",
+			},
+			{
+				"code":"MR7",
+				"nama":"Raja Chulan",
+			},
+			{
+				"code":"MR8",
+				"nama":"Bukit Nanas",
+			},
+			{
+				"code":"MR9",
+				"nama":"Medan Tuanku",
+			},
+			{
+				"code":"MR10",
+				"nama":"Chow Kit",
+			},
+			{
+				"code":"MR11",
+				"nama":"Titiwangsa",
+			}
+		]
+	},
 ]
