@@ -203,4 +203,126 @@
 			},
 		]
 	},
+	{
+		"line":"Sri Petaling",
+		"type":"lrt",
+		"station":[
+			{
+				"code":"SP31",
+				"nama":"Putra Height",
+			},
+			{
+				"code":"SP29",
+				"nama":"Puchong Prima",
+			},
+			{
+				"code":"SP28",
+				"nama":"Puchong Perdana",
+			},
+			{
+				"code":"SP27",
+				"nama":"Bandar Puteri",
+			},
+			{
+				"code":"SP26",
+				"nama":"Taman Perindustrian Puchong (TPP)",
+			},
+			{
+				"code":"SP25",
+				"nama":"Pusat Bandar Puchong",
+			},
+			{
+				"code":"SP24",
+				"nama":"IOI Puchong Jaya",
+			},
+			{
+				"code":"SP22",
+				"nama":"Kinrara",
+			},
+			{
+				"code":"SP21",
+				"nama":"Alam Sutera",
+			},
+			{
+				"code":"SP20",
+				"nama":"Muhibbah",
+			},
+			{
+				"code":"SP19",
+				"nama":"Awan Besar",
+			},
+			{
+				"code":"SP18",
+				"nama":"Sri Petaling",
+			},
+			{
+				"code":"SP17",
+				"nama":"Bukit Jalil",
+			},
+			{
+				"code":"SP16",
+				"nama":"Sungai Besi",
+			},
+			{
+				"code":"SP15",
+				"nama":"Bandar Tasik Selatan",
+			},
+			{
+				"code":"SP14",
+				"nama":"Bandar Tun Razak",
+			},
+			{
+				"code":"SP13",
+				"nama":"Salak Selatan",
+			},
+			{
+				"code":"SP12",
+				"nama":"Cheras",
+			},
+			{
+				"code":"SP11",
+				"nama":"Chan Sow Lin",
+			},
+			{
+				"code":"SP10",
+				"nama":"Pudu",
+			},
+			{
+				"code":"SP9",
+				"nama":"Hang Tuah",
+			},
+			{
+				"code":"SP8",
+				"nama":"Plaza Rakyat",
+			},
+			{
+				"code":"SP7",
+				"nama":"Masjid Jamek",
+			},
+			{
+				"code":"SP6",
+				"nama":"Bandaraya",
+			},
+			{
+				"code":"SP5",
+				"nama":"Sultan Ismail",
+			},
+			{
+				"code":"SP4",
+				"nama":"PWTC",
+			},
+			{
+				"code":"SP3",
+				"nama":"Titiwangsa",
+			},
+			{
+				"code":"SP2",
+				"nama":"Sentul",
+			},
+			{
+				"code":"SP1",
+				"nama":"Sentul Timur",
+			},
+		]
+	},
 ]
