@@ -325,4 +325,82 @@
 			},
 		]
 	},
+	{
+		"line":"Ampang",
+		"type":"lrt",
+		"station":[
+			{
+				"code":"AG18",
+				"nama":"Ampang",
+			},
+			{
+				"code":"AG17",
+				"nama":"Cahaya",
+			},
+			{
+				"code":"AG16",
+				"nama":"Cempaka",
+			},
+			{
+				"code":"AG15",
+				"nama":"Pandan Indah",
+			},
+			{
+				"code":"AG14",
+				"nama":"Pandan Jaya",
+			},
+			{
+				"code":"AG13",
+				"nama":"Maluri",
+			},
+			{
+				"code":"AG12",
+				"nama":"Miharja",
+			},
+			{
+				"code":"AG11",
+				"nama":"Chan Sow Lin",
+			},
+			{
+				"code":"AG10",
+				"nama":"Pudu",
+			},
+			{
+				"code":"AG9",
+				"nama":"Hang Tuah",
+			},
+			{
+				"code":"AG8",
+				"nama":"Plaza Rakyat",
+			},
+			{
+				"code":"AG7",
+				"nama":"Masjid Jamek",
+			},
+			{
+				"code":"AG6",
+				"nama":"Bandaraya",
+			},
+			{
+				"code":"AG5",
+				"nama":"Sultan Ismail",
+			},
+			{
+				"code":"AG4",
+				"nama":"PWTC",
+			},
+			{
+				"code":"AG3",
+				"nama":"Titiwangsa",
+			},
+			{
+				"code":"AG2",
+				"nama":"Sentul",
+			},
+			{
+				"code":"AG1",
+				"nama":"Sentul Timur",
+			},
+		]
+	},
 ]
