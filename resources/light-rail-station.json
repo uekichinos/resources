@@ -7,56 +7,103 @@
 				"code":"MR1",
 				"nama":"KL Sentral",
 				"parking":true,
+				"connection":[
+					{
+						"code":"KJ15"
+					},
+					{
+						"code":"SBK15"
+					}
+				],
 			},
 			{
 				"code":"MR2",
 				"nama":"Tun Sambathan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"MR3",
 				"nama":"Maharajalela",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"MR4",
 				"nama":"Hang Tuah",
 				"parking":false,
+				"connection":[
+					{
+						"code":"AG9"
+					},
+					{
+						"code":"SP9"
+					}
+				],
 			},
 			{
 				"code":"MR5",
 				"nama":"Imbi",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"MR6",
 				"nama":"Bukit Bintang",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SBK18A"
+					}
+				],
 			},
 			{
 				"code":"MR7",
 				"nama":"Raja Chulan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"MR8",
 				"nama":"Bukit Nanas",
 				"parking":false,
+				"connection":[
+					{
+						"code":"KJ12"
+					}
+				],
 			},
 			{
 				"code":"MR9",
 				"nama":"Medan Tuanku",
 				"parking":false,
+				"connection":[
+					{
+						"code":"AG5"
+					},
+					{
+						"code":"SP5"
+					}
+				],
 			},
 			{
 				"code":"MR10",
 				"nama":"Chow Kit",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"MR11",
 				"nama":"Titiwangsa",
 				"parking":false,
+				"connection":[
+					{
+						"code":"AG3"
+					},
+					{
+						"code":"SP3"
+					}
+				],
 			}
 		]
 	},
@@ -68,186 +115,246 @@
 				"code":"KJ37",
 				"nama":"Putra Height",
 				"parking":true,
+				"connection":[
+					{
+						"code":"SP31"
+					}
+				],
 			},
 			{
 				"code":"KJ36",
 				"nama":"Subang Alam",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ35",
 				"nama":"Alam Megah",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ34",
 				"nama":"USJ 21",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ33",
 				"nama":"Wawasan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ32",
 				"nama":"Taipan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ31",
 				"nama":"USJ 7",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ30",
 				"nama":"SS 18",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ29",
 				"nama":"SS 15",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ28",
 				"nama":"Subang Jaya",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ27",
 				"nama":"Glenmarie",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ26",
 				"nama":"Ara Damansara",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ25",
 				"nama":"Lembah Subang",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ24",
 				"nama":"Kelana Jaya",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ23",
 				"nama":"Taman Bahagia",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ22",
 				"nama":"Taman Paramount",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ21",
 				"nama":"Asia Jaya",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ20",
 				"nama":"Taman Jaya",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ19",
 				"nama":"Universiti",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ18",
 				"nama":"Kerinchi",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ17",
 				"nama":"Abdullah Hukum",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ16",
 				"nama":"Bangsar",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ15",
 				"nama":"KL Sentral",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR1"
+					}
+				],
 			},
 			{
 				"code":"KJ14",
 				"nama":"Pasar Seni",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SBK16"
+					}
+				],
 			},
 			{
 				"code":"KJ13",
 				"nama":"Masjid Jamek",
 				"parking":false,
+				"connection":[
+					{
+						"code":"AG7"
+					},
+					{
+						"code":"SP7"
+					}
+				],
 			},
 			{
 				"code":"KJ12",
 				"nama":"Dang Wangi",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR8"
+					}
+				],
 			},
 			{
 				"code":"KJ11",
 				"nama":"Kampung Baru",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ10",
 				"nama":"KLCC",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ9",
 				"nama":"Ampang Park",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ8",
 				"nama":"Damai",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ7",
 				"nama":"Dato' Keramat",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"KJ6",
 				"nama":"Jelatek",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ5",
 				"nama":"Setiawangsa",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ4",
 				"nama":"Sri Rampai",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ3",
 				"nama":"Wangsa Maju",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ2",
 				"nama":"Taman Melati",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"KJ1",
 				"nama":"Gombak",
 				"parking":true,
+				"connection":false,
 			},
 		]
 	},
@@ -259,146 +366,203 @@
 				"code":"SP31",
 				"nama":"Putra Height",
 				"parking":true,
+				"connection":[
+					{
+						"code":"KJ37"
+					}
+				],
 			},
 			{
 				"code":"SP29",
 				"nama":"Puchong Prima",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP28",
 				"nama":"Puchong Perdana",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP27",
 				"nama":"Bandar Puteri",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP26",
 				"nama":"Taman Perindustrian Puchong (TPP)",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP25",
 				"nama":"Pusat Bandar Puchong",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP24",
 				"nama":"IOI Puchong Jaya",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP22",
 				"nama":"Kinrara",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP21",
 				"nama":"Alam Sutera",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP20",
 				"nama":"Muhibbah",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP19",
 				"nama":"Awan Besar",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP18",
 				"nama":"Sri Petaling",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP17",
 				"nama":"Bukit Jalil",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP16",
 				"nama":"Sungai Besi",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP15",
 				"nama":"Bandar Tasik Selatan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP14",
 				"nama":"Bandar Tun Razak",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP13",
 				"nama":"Salak Selatan",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP12",
 				"nama":"Cheras",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP11",
 				"nama":"Chan Sow Lin",
 				"parking":false,
+				"connection":[
+					{
+						"code":"AG11"
+					}
+				],
 			},
 			{
 				"code":"SP10",
 				"nama":"Pudu",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP9",
 				"nama":"Hang Tuah",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR4"
+					}
+				],
 			},
 			{
 				"code":"SP8",
 				"nama":"Plaza Rakyat",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SBK17"
+					}
+				],
 			},
 			{
 				"code":"SP7",
 				"nama":"Masjid Jamek",
 				"parking":false,
+				"connection":[
+					{
+						"code":"KJ13"
+					}
+				],
 			},
 			{
 				"code":"SP6",
 				"nama":"Bandaraya",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP5",
 				"nama":"Sultan Ismail",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR9"
+					}
+				],
 			},
 			{
 				"code":"SP4",
 				"nama":"PWTC",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SP3",
 				"nama":"Titiwangsa",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR11"
+					}
+				],
 			},
 			{
 				"code":"SP2",
 				"nama":"Sentul",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SP1",
 				"nama":"Sentul Timur",
 				"parking":true,
+				"connection":false,
 			},
 		]
 	},
@@ -410,91 +574,137 @@
 				"code":"AG18",
 				"nama":"Ampang",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG17",
 				"nama":"Cahaya",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"AG16",
 				"nama":"Cempaka",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG15",
 				"nama":"Pandan Indah",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG14",
 				"nama":"Pandan Jaya",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG13",
 				"nama":"Maluri",
 				"parking":true,
+				"connection":[
+					{
+						"code":"SBK22"
+					}
+				],
 			},
 			{
 				"code":"AG12",
 				"nama":"Miharja",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG11",
 				"nama":"Chan Sow Lin",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SP11"
+					}
+				],
 			},
 			{
 				"code":"AG10",
 				"nama":"Pudu",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG9",
 				"nama":"Hang Tuah",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR4"
+					}
+				],
 			},
 			{
 				"code":"AG8",
 				"nama":"Plaza Rakyat",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SBK17"
+					}
+				],
 			},
 			{
 				"code":"AG7",
 				"nama":"Masjid Jamek",
 				"parking":false,
+				"connection":[
+					{
+						"code":"KJ13"
+					}
+				],
 			},
 			{
 				"code":"AG6",
 				"nama":"Bandaraya",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"AG5",
 				"nama":"Sultan Ismail",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR9"
+					}
+				],
 			},
 			{
 				"code":"AG4",
 				"nama":"PWTC",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"AG3",
 				"nama":"Titiwangsa",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR11"
+					}
+				],
 			},
 			{
 				"code":"AG2",
 				"nama":"Sentul",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"AG1",
 				"nama":"Sentul Timur",
 				"parking":true,
+				"connection":false,
 			},
 		]
 	},
@@ -506,156 +716,210 @@
 				"code":"SBK01",
 				"nama":"Sungai Buloh",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK02",
 				"nama":"Kampung Selamat",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK04",
 				"nama":"Kwasa Damansara",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK05",
 				"nama":"Kwasa Sentral",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK06",
 				"nama":"Kota Damansara",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK07",
 				"nama":"Surian",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK08",
 				"nama":"Mutiara Damansara",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK09",
 				"nama":"Bandar Utama",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK10",
 				"nama":"Taman Tun Dr Ismail",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK12",
 				"nama":"Phileo Damansara",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK13",
 				"nama":"Pusat Bandar Damansara",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK14",
 				"nama":"Semantan",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK15",
 				"nama":"Muzium Negara",
 				"parking":false,
+				"connection":[
+					{
+						"code":"KJ15"
+					}
+				],
 			},
 			{
 				"code":"SBK16",
 				"nama":"Pasar Seni",
 				"parking":false,
+				"connection":[
+					{
+						"code":"KJ14"
+					}
+				],
 			},
 			{
 				"code":"SBK17",
 				"nama":"Merdeka",
 				"parking":false,
+				"connection":[
+					{
+						"code":"SP8"
+					},
+					{
+						"code":"AG8"
+					}
+				],
 			},
 			{
 				"code":"SBK18A",
 				"nama":"Bukit Bintang",
 				"parking":false,
+				"connection":[
+					{
+						"code":"MR6"
+					}
+				],
 			},
 			{
 				"code":"SBK20",
 				"nama":"Tun Razak Exchange",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK21",
 				"nama":"Cochrane",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK22",
 				"nama":"Maluri",
 				"parking":true,
+				"connection":[
+					{
+						"code":"AG13"
+					}
+				],
 			},
 			{
 				"code":"SBK23",
 				"nama":"Taman Pertama",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK24",
 				"nama":"Taman Midah",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK25",
 				"nama":"Taman Mutiara",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK26",
 				"nama":"Taman Connaught",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK27",
 				"nama":"Taman Suntex",
 				"parking":true,
+				"connection":false,
 			},			
 			{
 				"code":"SBK28",
 				"nama":"Sri raya",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK29",
 				"nama":"Bandar Tun Hussein Onn",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK30",
 				"nama":"Batu 11 Cheras",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK31",
 				"nama":"Bukit Dukung",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK33",
 				"nama":"Sungai Jernih",
 				"parking":true,
+				"connection":false,
 			},
 			{
 				"code":"SBK34",
 				"nama":"Stadium Kajang",
 				"parking":false,
+				"connection":false,
 			},
 			{
 				"code":"SBK35",
 				"nama":"Kajang",
 				"parking":true,
+				"connection":false,
 			},
 		]
 	}
