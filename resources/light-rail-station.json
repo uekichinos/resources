@@ -15,18 +15,24 @@
 						"code":"SBK15"
 					}
 				],
+				"longitude":"3.132676",
+				"longitude":"101.687900",
 			},
 			{
 				"code":"MR2",
 				"nama":"Tun Sambathan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.131483",
+				"longitude":"101.690873",
 			},
 			{
 				"code":"MR3",
 				"nama":"Maharajalela",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.138955",
+				"longitude":"101.699185",
 			},
 			{
 				"code":"MR4",
@@ -40,12 +46,16 @@
 						"code":"SP9"
 					}
 				],
+				"longitude":"3.140686",
+				"longitude":"101.706016",
 			},
 			{
 				"code":"MR5",
 				"nama":"Imbi",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.142784",
+				"longitude":"101.709340",
 			},
 			{
 				"code":"MR6",
@@ -56,12 +66,16 @@
 						"code":"SBK18A"
 					}
 				],
+				"longitude":"3.145899",
+				"longitude":"101.711529",
 			},
 			{
 				"code":"MR7",
 				"nama":"Raja Chulan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.150819",
+				"longitude":"101.710365",
 			},
 			{
 				"code":"MR8",
@@ -72,6 +86,8 @@
 						"code":"KJ12"
 					}
 				],
+				"longitude":"3.156150",
+				"longitude":"101.704809",
 			},
 			{
 				"code":"MR9",
@@ -85,12 +101,16 @@
 						"code":"SP5"
 					}
 				],
+				"longitude":"3.159286",
+				"longitude":"101.698845",
 			},
 			{
 				"code":"MR10",
 				"nama":"Chow Kit",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.167296",
+				"longitude":"101.698366",
 			},
 			{
 				"code":"MR11",
@@ -104,6 +124,8 @@
 						"code":"SP3"
 					}
 				],
+				"longitude":"3.173184",
+				"longitude":"101.695992",
 			}
 		]
 	},
@@ -120,132 +142,176 @@
 						"code":"SP31"
 					}
 				],
+				"longitude":"2.995941",
+				"longitude":"101.575467",
 			},
 			{
 				"code":"KJ36",
 				"nama":"Subang Alam",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.009457",
+				"longitude":"101.572085",
 			},
 			{
 				"code":"KJ35",
 				"nama":"Alam Megah",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.022970",
+				"longitude":"101.572061",
 			},
 			{
 				"code":"KJ34",
 				"nama":"USJ 21",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.029832",
+				"longitude":"101.581660",
 			},
 			{
 				"code":"KJ33",
 				"nama":"Wawasan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.035207",
+				"longitude":"101.588306",
 			},
 			{
 				"code":"KJ32",
 				"nama":"Taipan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.047802",
+				"longitude":"101.589948",
 			},
 			{
 				"code":"KJ31",
 				"nama":"USJ 7",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.054873",
+				"longitude":"101.591874",
 			},
 			{
 				"code":"KJ30",
 				"nama":"SS 18",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.067011",
+				"longitude":"101.586111",
 			},
 			{
 				"code":"KJ29",
 				"nama":"SS 15",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.075747",
+				"longitude":"101.586047",
 			},
 			{
 				"code":"KJ28",
 				"nama":"Subang Jaya",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.084573",
+				"longitude":"101.587813",
 			},
 			{
 				"code":"KJ27",
 				"nama":"Glenmarie",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.095769",
+				"longitude":"101.590484",
 			},
 			{
 				"code":"KJ26",
 				"nama":"Ara Damansara",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.108257",
+				"longitude":"101.586448",
 			},
 			{
 				"code":"KJ25",
 				"nama":"Lembah Subang",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.111930",
+				"longitude":"101.591379",
 			},
 			{
 				"code":"KJ24",
 				"nama":"Kelana Jaya",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.112691",
+				"longitude":"101.604595",
 			},
 			{
 				"code":"KJ23",
 				"nama":"Taman Bahagia",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.110668",
+				"longitude":"101.612501",
 			},
 			{
 				"code":"KJ22",
 				"nama":"Taman Paramount",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.104570",
+				"longitude":"101.623298",
 			},
 			{
 				"code":"KJ21",
 				"nama":"Asia Jaya",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.104294",
+				"longitude":"101.637557",
 			},
 			{
 				"code":"KJ20",
 				"nama":"Taman Jaya",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.103990",
+				"longitude":"101.645438",
 			},
 			{
 				"code":"KJ19",
 				"nama":"Universiti",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.114617",
+				"longitude":"101.661618",
 			},
 			{
 				"code":"KJ18",
 				"nama":"Kerinchi",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.115532",
+				"longitude":"101.668381",
 			},
 			{
 				"code":"KJ17",
 				"nama":"Abdullah Hukum",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.118619",
+				"longitude":"101.672810",
 			},
 			{
 				"code":"KJ16",
 				"nama":"Bangsar",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.127649",
+				"longitude":"101.679196",
 			},
 			{
 				"code":"KJ15",
@@ -256,6 +322,8 @@
 						"code":"MR1"
 					}
 				],
+				"longitude":"3.134338",
+				"longitude":"101.686678",
 			},
 			{
 				"code":"KJ14",
@@ -266,6 +334,8 @@
 						"code":"SBK16"
 					}
 				],
+				"longitude":"3.142344",
+				"longitude":"101.695315",
 			},
 			{
 				"code":"KJ13",
@@ -279,6 +349,8 @@
 						"code":"SP7"
 					}
 				],
+				"longitude":"3.149338",
+				"longitude":"101.696302",
 			},
 			{
 				"code":"KJ12",
@@ -289,72 +361,96 @@
 						"code":"MR8"
 					}
 				],
+				"longitude":"3.156219",
+				"longitude":"101.702939",
 			},
 			{
 				"code":"KJ11",
 				"nama":"Kampung Baru",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.161325",
+				"longitude":"101.706574",
 			},
 			{
 				"code":"KJ10",
 				"nama":"KLCC",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.159029",
+				"longitude":"101.714008",
 			},
 			{
 				"code":"KJ9",
 				"nama":"Ampang Park",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.159801",
+				"longitude":"101.718777",
 			},
 			{
 				"code":"KJ8",
 				"nama":"Damai",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.164561",
+				"longitude":"101.724210",
 			},
 			{
 				"code":"KJ7",
 				"nama":"Dato' Keramat",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.165005",
+				"longitude":"101.731987",
 			},
 			{
 				"code":"KJ6",
 				"nama":"Jelatek",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.167201",
+				"longitude":"101.735296",
 			},
 			{
 				"code":"KJ5",
 				"nama":"Setiawangsa",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.175536",
+				"longitude":"101.735810",
 			},
 			{
 				"code":"KJ4",
 				"nama":"Sri Rampai",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.198907",
+				"longitude":"101.737428",
 			},
 			{
 				"code":"KJ3",
 				"nama":"Wangsa Maju",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.205669",
+				"longitude":"101.732011",
 			},
 			{
 				"code":"KJ2",
 				"nama":"Taman Melati",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.219648",
+				"longitude":"101.721828",
 			},
 			{
 				"code":"KJ1",
 				"nama":"Gombak",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.231445",
+				"longitude":"101.724419",
 			},
 		]
 	},
@@ -371,108 +467,144 @@
 						"code":"KJ37"
 					}
 				],
+				"longitude":"2.995941",
+				"longitude":"101.575467",
 			},
 			{
 				"code":"SP29",
 				"nama":"Puchong Prima",
 				"parking":false,
 				"connection":false,
+				"longitude":"2.999781",
+				"longitude":"101.596579",
 			},
 			{
 				"code":"SP28",
 				"nama":"Puchong Perdana",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.007856",
+				"longitude":"101.605013",
 			},
 			{
 				"code":"SP27",
 				"nama":"Bandar Puteri",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.016909",
+				"longitude":"101.612804",
 			},
 			{
 				"code":"SP26",
 				"nama":"Taman Perindustrian Puchong (TPP)",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.022652",
+				"longitude":"101.613405",
 			},
 			{
 				"code":"SP25",
 				"nama":"Pusat Bandar Puchong",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.033496",
+				"longitude":"101.616185",
 			},
 			{
 				"code":"SP24",
 				"nama":"IOI Puchong Jaya",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.047936",
+				"longitude":"101.621009",
 			},
 			{
 				"code":"SP22",
 				"nama":"Kinrara",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0503011",
+				"longitude":"101.6433942",
 			},
 			{
 				"code":"SP21",
 				"nama":"Alam Sutera",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.054614",
+				"longitude":"101.656449",
 			},
 			{
 				"code":"SP20",
 				"nama":"Muhibbah",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.061920",
+				"longitude":"101.662600",
 			},
 			{
 				"code":"SP19",
 				"nama":"Awan Besar",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.062057",
+				"longitude":"101.670545",
 			},
 			{
 				"code":"SP18",
 				"nama":"Sri Petaling",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0613897",
+				"longitude":"101.6870576",
 			},
 			{
 				"code":"SP17",
 				"nama":"Bukit Jalil",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0579817",
+				"longitude":"101.692013",
 			},
 			{
 				"code":"SP16",
 				"nama":"Sungai Besi",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0640021",
+				"longitude":"101.7079369",
 			},
 			{
 				"code":"SP15",
 				"nama":"Bandar Tasik Selatan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0760682",
+				"longitude":"101.7110763",
 			},
 			{
 				"code":"SP14",
 				"nama":"Bandar Tun Razak",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0895157",
+				"longitude":"101.7123877",
 			},
 			{
 				"code":"SP13",
 				"nama":"Salak Selatan",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1020669",
+				"longitude":"101.7062901",
 			},
 			{
 				"code":"SP12",
 				"nama":"Cheras",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1126013",
+				"longitude":"101.7142513",
 			},
 			{
 				"code":"SP11",
@@ -483,12 +615,16 @@
 						"code":"AG11"
 					}
 				],
+				"longitude":"3.1278491",
+				"longitude":"101.7155321",
 			},
 			{
 				"code":"SP10",
 				"nama":"Pudu",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1349949",
+				"longitude":"101.7117779",
 			},
 			{
 				"code":"SP9",
@@ -499,6 +635,8 @@
 						"code":"MR4"
 					}
 				],
+				"longitude":"3.1398306",
+				"longitude":"101.7060442",
 			},
 			{
 				"code":"SP8",
@@ -509,6 +647,8 @@
 						"code":"SBK17"
 					}
 				],
+				"longitude":"3.1442762",
+				"longitude":"101.7018802",
 			},
 			{
 				"code":"SP7",
@@ -519,12 +659,16 @@
 						"code":"KJ13"
 					}
 				],
+				"longitude":"3.1492124",
+				"longitude":"101.6964313",
 			},
 			{
 				"code":"SP6",
 				"nama":"Bandaraya",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.155569",
+				"longitude":"101.6943717",
 			},
 			{
 				"code":"SP5",
@@ -535,12 +679,16 @@
 						"code":"MR9"
 					}
 				],
+				"longitude":"3.1611936",
+				"longitude":"101.6940851",
 			},
 			{
 				"code":"SP4",
 				"nama":"PWTC",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1664647",
+				"longitude":"101.6935979",
 			},
 			{
 				"code":"SP3",
@@ -551,18 +699,24 @@
 						"code":"MR11"
 					}
 				],
+				"longitude":"3.1735534",
+				"longitude":"101.6953034",
 			},
 			{
 				"code":"SP2",
 				"nama":"Sentul",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1785667",
+				"longitude":"101.6956236",
 			},
 			{
 				"code":"SP1",
 				"nama":"Sentul Timur",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.18593",
+				"longitude":"101.6952463",
 			},
 		]
 	},
@@ -575,30 +729,40 @@
 				"nama":"Ampang",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1503844",
+				"longitude":"101.7601759",
 			},
 			{
 				"code":"AG17",
 				"nama":"Cahaya",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1405772",
+				"longitude":"101.7564514",
 			},
 			{
 				"code":"AG16",
 				"nama":"Cempaka",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1384427",
+				"longitude":"101.7529409",
 			},
 			{
 				"code":"AG15",
 				"nama":"Pandan Indah",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1346302",
+				"longitude":"101.7464562",
 			},
 			{
 				"code":"AG14",
 				"nama":"Pandan Jaya",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1301433",
+				"longitude":"101.7388857",
 			},
 			{
 				"code":"AG13",
@@ -609,12 +773,16 @@
 						"code":"SBK22"
 					}
 				],
+				"longitude":"3.1230478",
+				"longitude":"101.7268675",
 			},
 			{
 				"code":"AG12",
 				"nama":"Miharja",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1209482",
+				"longitude":"101.7177976",
 			},
 			{
 				"code":"AG11",
@@ -625,12 +793,16 @@
 						"code":"SP11"
 					}
 				],
+				"longitude":"3.1278491",
+				"longitude":"101.7155321",
 			},
 			{
 				"code":"AG10",
 				"nama":"Pudu",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1349949",
+				"longitude":"101.7117779",
 			},
 			{
 				"code":"AG9",
@@ -641,6 +813,8 @@
 						"code":"MR4"
 					}
 				],
+				"longitude":"3.1398306",
+				"longitude":"101.7060442",
 			},
 			{
 				"code":"AG8",
@@ -651,6 +825,8 @@
 						"code":"SBK17"
 					}
 				],
+				"longitude":"3.1442762",
+				"longitude":"101.7018802",
 			},
 			{
 				"code":"AG7",
@@ -661,12 +837,16 @@
 						"code":"KJ13"
 					}
 				],
+				"longitude":"3.1492124",
+				"longitude":"101.6964313",
 			},
 			{
 				"code":"AG6",
 				"nama":"Bandaraya",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.155569",
+				"longitude":"101.6943717",
 			},
 			{
 				"code":"AG5",
@@ -677,12 +857,16 @@
 						"code":"MR9"
 					}
 				],
+				"longitude":"3.1611936",
+				"longitude":"101.6940851",
 			},
 			{
 				"code":"AG4",
 				"nama":"PWTC",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1664647",
+				"longitude":"101.6935979",
 			},
 			{
 				"code":"AG3",
@@ -693,18 +877,24 @@
 						"code":"MR11"
 					}
 				],
+				"longitude":"3.1735534",
+				"longitude":"101.6953034",
 			},
 			{
 				"code":"AG2",
 				"nama":"Sentul",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1785667",
+				"longitude":"101.6956236",
 			},
 			{
 				"code":"AG1",
 				"nama":"Sentul Timur",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.18593",
+				"longitude":"101.6952463",
 			},
 		]
 	},
@@ -717,72 +907,96 @@
 				"nama":"Sungai Buloh",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.2056531",
+				"longitude":"101.5807362",
 			},
 			{
 				"code":"SBK02",
 				"nama":"Kampung Selamat",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1972948",
+				"longitude":"101.5784575",
 			},
 			{
 				"code":"SBK04",
 				"nama":"Kwasa Damansara",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1763705",
+				"longitude":"101.5722686",
 			},
 			{
 				"code":"SBK05",
 				"nama":"Kwasa Sentral",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1698861",
+				"longitude":"101.5648352",
 			},
 			{
 				"code":"SBK06",
 				"nama":"Kota Damansara",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1501119",
+				"longitude":"101.5786679",
 			},
 			{
 				"code":"SBK07",
 				"nama":"Surian",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1494663",
+				"longitude":"101.5939397",
 			},
 			{
 				"code":"SBK08",
 				"nama":"Mutiara Damansara",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1552141",
+				"longitude":"101.6086241",
 			},
 			{
 				"code":"SBK09",
 				"nama":"Bandar Utama",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.146617",
+				"longitude":"101.6186997",
 			},
 			{
 				"code":"SBK10",
 				"nama":"Taman Tun Dr Ismail",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.136009",
+				"longitude":"101.6308292",
 			},
 			{
 				"code":"SBK12",
 				"nama":"Phileo Damansara",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1292252",
+				"longitude":"101.6428587",
 			},
 			{
 				"code":"SBK13",
 				"nama":"Pusat Bandar Damansara",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1432868",
+				"longitude":"101.6622392",
 			},
 			{
 				"code":"SBK14",
 				"nama":"Semantan",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1509815",
+				"longitude":"101.6651691",
 			},
 			{
 				"code":"SBK15",
@@ -793,6 +1007,8 @@
 						"code":"KJ15"
 					}
 				],
+				"longitude":"3.1373805",
+				"longitude":"101.6875455",
 			},
 			{
 				"code":"SBK16",
@@ -803,6 +1019,8 @@
 						"code":"KJ14"
 					}
 				],
+				"longitude":"3.1423125",
+				"longitude":"101.695731",
 			},
 			{
 				"code":"SBK17",
@@ -816,6 +1034,8 @@
 						"code":"AG8"
 					}
 				],
+				"longitude":"3.1424838",
+				"longitude":"101.7020569",
 			},
 			{
 				"code":"SBK18A",
@@ -826,18 +1046,24 @@
 						"code":"MR6"
 					}
 				],
+				"longitude":"3.1464688",
+				"longitude":"101.7108029",
 			},
 			{
 				"code":"SBK20",
 				"nama":"Tun Razak Exchange",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1429986",
+				"longitude":"101.719832",
 			},
 			{
 				"code":"SBK21",
 				"nama":"Cochrane",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1324037",
+				"longitude":"101.7230793",
 			},
 			{
 				"code":"SBK22",
@@ -848,78 +1074,104 @@
 						"code":"AG13"
 					}
 				],
+				"longitude":"3.1237516",
+				"longitude":"101.7273412",
 			},
 			{
 				"code":"SBK23",
 				"nama":"Taman Pertama",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.1125989",
+				"longitude":"101.7292606",
 			},
 			{
 				"code":"SBK24",
 				"nama":"Taman Midah",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.1049991",
+				"longitude":"101.7318414",
 			},
 			{
 				"code":"SBK25",
 				"nama":"Taman Mutiara",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0908423",
+				"longitude":"101.7403312",
 			},
 			{
 				"code":"SBK26",
 				"nama":"Taman Connaught",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0790906",
+				"longitude":"101.7450201",
 			},
 			{
 				"code":"SBK27",
 				"nama":"Taman Suntex",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0715413",
+				"longitude":"101.7634523",
 			},			
 			{
 				"code":"SBK28",
-				"nama":"Sri raya",
+				"nama":"Sri Raya",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0622657",
+				"longitude":"101.7727511",
 			},
 			{
 				"code":"SBK29",
 				"nama":"Bandar Tun Hussein Onn",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0486308",
+				"longitude":"101.7741939",
 			},
 			{
 				"code":"SBK30",
 				"nama":"Batu 11 Cheras",
 				"parking":false,
 				"connection":false,
+				"longitude":"3.0412378",
+				"longitude":"101.7731981",
 			},
 			{
 				"code":"SBK31",
 				"nama":"Bukit Dukung",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0263937",
+				"longitude":"101.7710077",
 			},
 			{
 				"code":"SBK33",
 				"nama":"Sungai Jernih",
 				"parking":true,
 				"connection":false,
+				"longitude":"3.0013508",
+				"longitude":"101.7835939",
 			},
 			{
 				"code":"SBK34",
 				"nama":"Stadium Kajang",
 				"parking":false,
 				"connection":false,
+				"longitude":"2.9939502",
+				"longitude":"101.7862769",
 			},
 			{
 				"code":"SBK35",
 				"nama":"Kajang",
 				"parking":true,
 				"connection":false,
+				"longitude":"2.9830443",
+				"longitude":"101.7901742",
 			},
 		]
 	}

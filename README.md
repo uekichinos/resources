@@ -4,8 +4,8 @@ A collection of resources.
 ## light-rail-station.json
 A collection of LRT, MRT and monorail station under Prasarana. 
 
-Future plan:
-- [ ] longitude and latitude
+Data:
+- [x] longitude and latitude
 - [x] parking facilities
 - [x] connection station
 
