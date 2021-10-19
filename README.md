@@ -5,6 +5,7 @@ A collection of resources.
 ## light-rail-station.json
 
 A collection of LRT, MRT and monorail station under Prasarana.
+Data update: 3 Jan 2021
 
 Data:
 
@@ -14,11 +15,12 @@ Data:
 - [x] parking facilities
 - [x] connection station
 
-source: https://www.myrapid.com.my/traveling-with-us/how-to-travel-with-us/rapid-kl/monorail-and-lrts, https://www.myrapid.com.my/traveling-with-us/how-to-travel-with-us/rapid-kl/mrt
+source: https://www.myrapid.com.my/
 
-## speedmart.json
+## speedmart99.json
 
 A list of Speedmart99 branch.
+Data update: 19 Oct 2021
 
 Data:
 
