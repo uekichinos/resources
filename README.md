@@ -21,7 +21,7 @@ source: https://www.myrapid.com.my/
 
 A list of Speedmart99 branch.
 Data update: 19 Oct 2021
-
+ 
 Data:
 
 - [x] branch code
