@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Segi Fresh Alor Gajah",
+    "address": "MP 11, 12, 13, 14, 15 & 16, Jalan Lesung Batu Jaya Utama, Taman Lesung Batu Jaya, 78000 Alor Gajah, Melaka",
+    "city": "Alor Gajah",
+    "postcode": "78000",
+    "state": "Melaka",
+    "latitude": 2.3741302,
+    "longitude": 102.2317048,
+    "map": "https://goo.gl/maps/UzrobUc9N4cy9ipQ9"
+  },
+  {
+    "name": "Segi Fresh Ampang",
+    "address": "56G & 56-1, Jalan AWF 2, Ampang Water Front, 68000 Ampang, Selangor",
+    "city": "Ampang",
+    "postcode": "68000",
+    "state": "Selangor",
+    "latitude": 3.1436522,
+    "longitude": 101.7713791,
+    "map": "https://goo.gl/maps/qMWm17FEuQhyZuDPA"
+  },
+  {
+    "name": "Segi Fresh Ampang",
+    "address": "No. 5-G, 7-G, 9-G, & 11-G, Jalan Perniagaan Ampang 4, Pusat Perniagaan Ampang, 31350 Ipoh, Perak Darul Ridzuan",
+    "city": "",
+    "postcode": "31350",
+    "state": "Perak",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://goo.gl/maps/QWRLhyEgVuSQicS8A"
+  },
+  {
+    "name": "Segi Fresh Antara Gapi",
+    "address": "No. 33A-G, 35-G, 35-LG, 35-2, Jalan Gapimas 1, Laman Gapimas, 48200 Serendah, Selangor",
+    "city": "Antara Gapi",
+    "postcode": "48200",
+    "state": "Selangor",
+    "latitude": 3.4215125,
+    "longitude": 101.6239436,
+    "map": "https://maps.app.goo.gl/bPCCPGqGv9oDEAtb6"
+  },
+  {
+    "name": "Segi Fresh Ara Damansara",
+    "address": "J-G-06, J-G-07 & J-G-08, Blok J, No. 2, Jalan PJU 1A/41B, Pusat Dagangan NZX, Ara Jaya, PJU 1A, 47301 Petaling Jaya, Selangor",
+    "city": "Ara Damansara",
+    "postcode": "47301",
+    "state": "Selangor",
+    "latitude": 3.11521,
+    "longitude": 101.5885139,
+    "map": "https://goo.gl/maps/7KxqZe4ZygPX8t8W9"
+  },
+  {
+    "name": "Segi Fresh Assam Jawa",
+    "address": "No.3,5 & 7, Jalan Gaya Merak , Taman Gaya Merak, 45700, Bukit Rotan, Selangor",
+    "city": "Assam Jawa",
+    "postcode": "45700",
+    "state": "Selangor",
+    "latitude": 3.3024079,
+    "longitude": 101.287403,
+    "map": "https://goo.gl/maps/8xdjed6VJM4LN8vB7"
+  },
+  {
+    "name": "Segi Fresh Awani Bangi",
+    "address": "15-G & 16-G & 17-G, Jalan Awani Bangi 1/1, Taman Awani Bangi, 43000 Kajang, Selangor",
+    "city": "Bangi Lama",
+    "postcode": "43000",
+    "state": "Selangor",
+    "latitude": 2.8984564,
+    "longitude": 101.7756077,
+    "map": "https://maps.app.goo.gl/cGbyRpZqGd2uchTt6"
+  },
+  {
+    "name": "Segi Fresh Bandar Enstek",
+    "address": "PT 14352 G - 14357 G, Jalan Pusat Niaga KLIA 1, 71800 Nilai, Negeri Sembilan.",
+    "city": "Bandar Enstek",
+    "postcode": "14352",
+    "state": "Negeri Sembilan",
+    "latitude": 2.7705046,
+    "longitude": 101.7611753,
+    "map": "https://goo.gl/maps/RdhXaLNDArgqwEFP7"
+  },
+  {
+    "name": "Segi Fresh Bandar Mahkota Banting",
+    "address": "No. 7-G-62, 7-G-64, 7-G-66 & 7-G-68, Jalan Usahawan 2, Bandar Mahkota Banting, 42700 Banting, Selangor",
+    "city": "Kuala Langat",
+    "postcode": "42700",
+    "state": "Selangor",
+    "latitude": 2.8320829,
+    "longitude": 101.5518015,
+    "map": "https://goo.gl/maps/QANps69NrJbE2nUa8"
+  },
+  {
+    "name": "Segi Fresh Bandar Saujana Putra",
+    "address": "No. 15, 17, 19, 21 & 23, Jalan SP 5/3 , Pusat Perdagangan BSP, Bandar Saujana Putra Jenjarom, 42610 Jenjorom, Selangor",
+    "city": "Bandar Saujana Putra",
+    "postcode": "42610",
+    "state": "Selangor",
+    "latitude": 2.9438849,
+    "longitude": 101.5845224,
+    "map": "https://goo.gl/maps/yoUnDWJ96wuhGyvU9"
+  },
+  {
+    "name": "Segi Fresh Bandar Tasik Puteri",
+    "address": "No. 101, 103, 105, 107, 109 & 111, Jalan 7A/3, BTP 8, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+    "city": "Bandar Tasik Puteri",
+    "postcode": "48020",
+    "state": "Selangor",
+    "latitude": 3.2828436,
+    "longitude": 101.4710289,
+    "map": "https://goo.gl/maps/ckXjPEWF1m8CnbKE7"
+  },
+  {
+    "name": "Segi Fresh Bandar Teknologi Kajang",
+    "address": "No. 7-G, 9-G, 11-G & 13-G, Jalan 5/5, Bandar Teknologi Kajang, Seksyen 5, 43500 Semenyih, Selangor",
+    "city": "",
+    "postcode": "43500",
+    "state": "Selangor",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://goo.gl/maps/ejnABTy9wZR62NYR9"
+  },
+  {
+    "name": "Segi Fresh Banting",
+    "address": "6, 8, 10, 12, 14 & 16, Jalan Taman 1, Taman Sri Putra, 42700 Banting, Selangor",
+    "city": "Kuala Langat",
+    "postcode": "42700",
+    "state": "Selangor",
+    "latitude": 2.8115246,
+    "longitude": 101.4870006,
+    "map": "https://goo.gl/maps/wdTF68p7UNuFz9cNA"
+  },
+  {
+    "name": "Segi Fresh Batang Kali",
+    "address": "1, 3, 5, 7, 9,11 & 13, Jalan Mahagoni 7/4, Bandar Baru Batang Kali, 44300 Batang Kali, Selangor",
+    "city": "Batang Kali",
+    "postcode": "44300",
+    "state": "Selangor",
+    "latitude": 3.4623621,
+    "longitude": 101.6568659,
+    "map": "https://goo.gl/maps/Vt31xS5mARHvQs3r6"
+  },
+  {
+    "name": "Segi Fresh Batu Caves",
+    "address": "No. 23, 25, 27 & 29, Jalan SBC 3, Taman Sri Batu Caves, 68100 Batu Caves, Selangor",
+    "city": "Batu Caves",
+    "postcode": "68100",
+    "state": "Selangor",
+    "latitude": 3.2343771,
+    "longitude": 101.6838979,
+    "map": "https://goo.gl/maps/anRBz54Y2QpM789f7"
+  },
+  {
+    "name": "Segi Fresh Batu Gajah",
+    "address": "No. 58-G, 60-G, 62-G & 64-G, Jalan Bandar Baru 2, Bandar Baru Batu Gajah, Perak Darul Ridzuan",
+    "city": "Batu Gajah",
+    "postcode": "31000",
+    "state": "Perak",
+    "latitude": 4.4731638,
+    "longitude": 101.0486433,
+    "map": "https://maps.app.goo.gl/YenZxsHKQn7umVmU9"
+  },
+  {
+    "name": "Segi Fresh Behrang",
+    "address": "No. 38, 39, 40, 41 & 42, Jalan Residen 1, Behrang Residen, 35950 Behrang, Perak",
+    "city": "Muallim",
+    "postcode": "35950",
+    "state": "Perak",
+    "latitude": 3.7449078,
+    "longitude": 101.4550194,
+    "map": "https://www.google.com/maps/place/Segi+Fresh/@3.7449078,101.4550194,17z/data=!3m1!4b1!4m5!3m4!1s0x31cb87aac568075f:0x1e1a93db69326fbb!8m2!3d3.7449078!4d101.4572081"
+  },
+  {
+    "name": "Segi Fresh Bestari Jaya",
+    "address": "No. 15,15-A,17,17-A,19,19-A,21,21-A,23 & 25, Jalan Berjuntai 2, Pusat Bandar Batang Berjuntai, 45600 Bestari Jaya, Selangor",
+    "city": "Bestari Jaya",
+    "postcode": "45600",
+    "state": "Selangor",
+    "latitude": 3.3799625,
+    "longitude": 101.4082408,
+    "map": "https://goo.gl/maps/SUMTnHCfzw74iAtDA"
+  },
+  {
+    "name": "Segi Fresh Bidor",
+    "address": "No. 1-G, 2-G & 3-G, Jalan Botani 1 ,Taman Bidor Botani, 35500 Bidor, Perak",
+    "city": "Bidor",
+    "postcode": "35500",
+    "state": "Perak",
+    "latitude": 4.1059777,
+    "longitude": 101.2748798,
+    "map": "https://goo.gl/maps/nP6zEboYmGR7y5wo9"
+  },
+  {
+    "name": "Segi Fresh Bougainvillea K. Kangsar",
+    "address": "No 55-G, 56-G, 57-G, 58-G & 59-G, Persiaran Bougainvillea Utama 1, Bougainvillea Utama, 33000 Kuala Kangsar, Perak",
+    "city": "Kuala Kangsar",
+    "postcode": "33000",
+    "state": "Perak",
+    "latitude": 4.7782371,
+    "longitude": 100.8953419,
+    "map": "https://maps.app.goo.gl/UQ4jw31tg5sdYNmU6"
+  },
+  {
+    "name": "Segi Fresh Bukit Raja",
+    "address": "No. 5 (GF), 7 (GF) & 9 (GF), Jalan Astaka 5/KU2, Bandar Bukit Raja, 41050 Klang, Selangor",
+    "city": "Bandar Bukit Raja",
+    "postcode": "41050",
+    "state": "Selangor",
+    "latitude": 3.0900033,
+    "longitude": 101.4497853,
+    "map": "https://goo.gl/maps/sy5fJ2e1iuwuzCMUA"
+  },
+  {
+    "name": "Segi Fresh Bukit Sentosa",
+    "address": "No 7G, 9G, 11G & 11AG, Jalan Bunga Kertas 1C, Perniagaan Jalan Bunga Kertas, Bukit Sentosa, 48300 Rawang, Selangor",
+    "city": "Bukit Sentosa",
+    "postcode": "48300",
+    "state": "Selangor",
+    "latitude": 3.3998182,
+    "longitude": 101.5593006,
+    "map": "https://goo.gl/maps/jAUyy92KoJPvWuz5A"
+  },
+  {
+    "name": "Segi Fresh Chenderiang",
+    "address": "No. 123-G & 124-G, Jalan Besar, 35000 Chenderiang, Perak.",
+    "city": "Chenderiang",
+    "postcode": "35000",
+    "state": "Perak",
+    "latitude": 4.263585,
+    "longitude": 101.235074,
+    "map": "https://maps.app.goo.gl/XwqiG7u1wUU8rx6Y8"
+  },
+  {
+    "name": "Segi Fresh Cheras",
+    "address": "No. 2 & 4, Jalan 13/91, Taman Shamelin Perkasa, 56100 Cheras, Kuala Lumpur",
+    "city": "Bandar Tun Razak",
+    "postcode": "56100",
+    "state": "Kuala Lumpur",
+    "latitude": 3.0745849,
+    "longitude": 101.7036635,
+    "map": "https://goo.gl/maps/DHuDDcWqrwWi2VzRA"
+  },
+  {
+    "name": "Segi Fresh Dengkil",
+    "address": "G-03, G-2A & G-05, Jalan Dengkil Centre Point, Taman Dengkil Centre Point, 43800 Dengkil, Selangor",
+    "city": "Dengkil",
+    "postcode": "43800",
+    "state": "Selangor",
+    "latitude": 2.8730686,
+    "longitude": 101.6686729,
+    "map": "https://goo.gl/maps/hiyHqWvRMiPxbZsz9"
+  },
+  {
+    "name": "Ehsan Segi Fresh Ken Rimba",
+    "address": "No. 43-1, 45-1, 47-1 & 49-1, Jalan Lengkuas B16/B, Ken Rimba, Seksyen 16, 40300 Shah Alam, Selangor",
+    "city": "Klang",
+    "postcode": "40300",
+    "state": "Selangor",
+    "latitude": 3.054972,
+    "longitude": 101.4821473,
+    "map": "https://goo.gl/maps/wxsWktcsBPnZ7Msx8"
+  },
+  {
+    "name": "Segi Fresh Gombak",
+    "address": "Lot 2344-5, Jalan Batu Caves, Kampung Simpang Tiga, 53100 Gombak, Selangor",
+    "city": "Gombak",
+    "postcode": "53100",
+    "state": "Selangor",
+    "latitude": 3.2343506,
+    "longitude": 101.7063943,
+    "map": "https://goo.gl/maps/HEy96iHwQfjJ6RRx7"
+  },
+  {
+    "name": "Segi Fresh Gopeng",
+    "address": "No. 7, 9, 11 & 13, Jalan Susur Kekwa, Taman Kopisan Baru, 31600 Gopeng, Perak",
+    "city": "Gopeng",
+    "postcode": "31600",
+    "state": "Perak",
+    "latitude": 4.4670846,
+    "longitude": 101.162675,
+    "map": "https://www.google.com.my/maps/place/4%C2%B028'01.5%22N+101%C2%B009'47.6%22E/@4.4670846,101.162675,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x31cafab1f6f1f737:0xc7ee154f527807f6!2sTaman+Gopeng+Baru,+31600+Gopeng,+Perak!3b1!8m2!3d4.4650438!4d101.1659827!3m5!1s0x0:0xfc15e6bb5c350e4b!7e2!8m2!3d4.4670807!4d101.1632206"
+  },
+  {
+    "name": "Segi Fresh Jalan Kebun",
+    "address": "No 9, 11, 13, 15 & 17, Jalan Sg Rasau F32/F, Seksyen 32, Taman Berjaya, 40460 Shah Alam, Selangor",
+    "city": "Klang",
+    "postcode": "40460",
+    "state": "Selangor",
+    "latitude": 2.979971,
+    "longitude": 101.5129,
+    "map": "https://goo.gl/maps/DNdPuASif2MU1jdKA"
+  },
+  {
+    "name": "Segi Fresh Jeram",
+    "address": "No 7-G, 9-G & 11-G, Jalan Sejahtera 1, Taman Sejahtera, 45800 Kuala Selangor, Selangor",
+    "city": "Kuala Selangor",
+    "postcode": "45800",
+    "state": "Selangor",
+    "latitude": 3.1902484,
+    "longitude": 101.3123647,
+    "map": "https://goo.gl/maps/a76TbsoPEeZkCVX58"
+  },
+  {
+    "name": "Segi Fresh Jernang Jaya",
+    "address": "No. 47 & 47A, Jalan Jernang Jaya 1, Taman Jernang Jaya, 43000 Kajang, Selangor",
+    "city": "Bangi Lama",
+    "postcode": "43000",
+    "state": "Selangor",
+    "latitude": 2.9237747,
+    "longitude": 101.7588788,
+    "map": "https://goo.gl/maps/dbuw3tMorSnnjQku5"
+  },
+  {
+    "name": "Segi Fresh Kajang",
+    "address": "No. 2-1, 3-1 & 4-1, Wisma Permata, Jalan Sungai kantan, 43000 Kajang, Selangor.",
+    "city": "Kajang 2",
+    "postcode": "43000",
+    "state": "Selangor",
+    "latitude": 2.9694154,
+    "longitude": 101.7861166,
+    "map": "https://goo.gl/maps/KHXMA2ZL82u6qQnq6"
+  },
+  {
+    "name": "Segi Fresh Kampar",
+    "address": "No. 68-G, 69-G & 70-G, Jalan Terminal Kampar 1, Pusat Perdagangan Kampar, 31900 Kampar, Perak",
+    "city": "",
+    "postcode": "31900",
+    "state": "Perak",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://goo.gl/maps/PjpSYMjhR71BWcLw56"
+  },
+  {
+    "name": "Segi Fresh Kayu Ara",
+    "address": "5, 7 & 9, Jalan PJU 6A/3, Kayu Ara Business Park, 47400 Petaling Jaya, Selangor",
+    "city": "Bandar Utama",
+    "postcode": "47400",
+    "state": "Selangor",
+    "latitude": 3.1337851,
+    "longitude": 101.6123728,
+    "map": "https://goo.gl/maps/rnRA5sh6mpjqksfM9"
+  },
+  {
+    "name": "Segi Fresh Klang Sentral",
+    "address": "D-01-G & D-03-G,Jalan Klang Sentral 15/KU5, Klang Sentral, Meru 41050 Klang, Selangor",
+    "city": "Meru",
+    "postcode": "41050",
+    "state": "Selangor",
+    "latitude": 3.1077681,
+    "longitude": 101.4371863,
+    "map": "https://goo.gl/maps/AUpQBuAUn1spYZcj9"
+  },
+  {
+    "name": "Segi Fresh Klebang",
+    "address": "No. 65-G, 67-G, 69-G, 71-G & 73-G, Lengkok Klebang Putra, Pusat Perdagangan Klebang, 31200 Chemor, Perak",
+    "city": "Chemor",
+    "postcode": "31200",
+    "state": "Perak",
+    "latitude": 4.687718,
+    "longitude": 101.1182049,
+    "map": "https://goo.gl/maps/imqwnnyTfhY1d7na8"
+  },
+  {
+    "name": "Segi Fresh Kuala Kangsar",
+    "address": "11, 12, 13, 14, 15 & 16, Medan Mutiara, Jalan Taiping, 33000 Kuala Kangsar, Perak",
+    "city": "Talang",
+    "postcode": "33000",
+    "state": "Perak",
+    "latitude": 4.7716187,
+    "longitude": 100.9299484,
+    "map": "https://goo.gl/maps/mB82KM39KAJSSuUT6"
+  },
+  {
+    "name": "Segi Fresh Kuala Kubu Bharu",
+    "address": "No. 7-11, Jalan Tanjak, Taman Tanjak, 44000 Kuala Kubu Bharu, Selangor",
+    "city": "Hulu Selangor",
+    "postcode": "44000",
+    "state": "Selangor",
+    "latitude": 3.5462348,
+    "longitude": 101.6567311,
+    "map": "https://goo.gl/maps/PN9WtMPR2ghidy3N6"
+  },
+  {
+    "name": "Segi Fresh Kuala Selangor",
+    "address": "1, 3, 5, 7 & 9, Jalan Bendahara 1/2B, Taman Bendahara, 45000 Kuala Selangor, Selangor",
+    "city": "Kuala Selangor",
+    "postcode": "45000",
+    "state": "Selangor",
+    "latitude": 3.3210735,
+    "longitude": 101.2663598,
+    "map": "https://goo.gl/maps/GV1nNZuCYNenN2Wr9"
+  },
+  {
+    "name": "Segi Fresh Malim Nawar",
+    "address": "Lot. 16 & 17, Main Road, 31700 Malim Nawar, Perak Darul Ridzuan",
+    "city": "Kampar",
+    "postcode": "31700",
+    "state": "Perak",
+    "latitude": 4.3501254,
+    "longitude": 101.1109176,
+    "map": "https://maps.app.goo.gl/VA8Ui52WHJqzUVuB7"
+  },
+  {
+    "name": "Segi Fresh Meru",
+    "address": "No 2, Jalan Meru Indah 19/KU8, Taman Perindustrian Meru Indah, 42200 Klang, Selangor",
+    "city": "Meru",
+    "postcode": "42200",
+    "state": "Selangor",
+    "latitude": 3.1346149,
+    "longitude": 101.4153708,
+    "map": "https://goo.gl/maps/Uu6s7e68XTvgRKS19"
+  },
+  {
+    "name": "Segi Fresh Pandamaran",
+    "address": "PT 15010 & PT 14256, Jalan Perusahaan 24, Pekan Pandamaran, Daerah Klang, 42000 Klang Bandar Diraja, Selangor",
+    "city": "Pelabuhan Klang",
+    "postcode": "42000",
+    "state": "Selangor",
+    "latitude": 2.9974701,
+    "longitude": 101.4178404,
+    "map": "https://goo.gl/maps/3y1h1Kks32gJc6GMA"
+  },
+  {
+    "name": "Segi Fresh Parit Perak",
+    "address": "No. 6-G & 7-G, Jalan Satu, Taman Parit Wira, 32800 Parit, Perak Darul Ridzuan",
+    "city": "Parit",
+    "postcode": "32800",
+    "state": "Perak",
+    "latitude": 4.478385,
+    "longitude": 100.9105088,
+    "map": "https://goo.gl/maps/rdd1xjk4jftEypyi7"
+  },
+  {
+    "name": "Segi Fresh Pekan Salak",
+    "address": "No. 8 & 10, Jalan 1, Pusat Perniagaan Salak, 43900 Sepang, Selangor",
+    "city": "Bandar Baru Salak Tinggi",
+    "postcode": "43900",
+    "state": "Selangor",
+    "latitude": 2.785156,
+    "longitude": 101.7469234,
+    "map": "https://goo.gl/maps/EwEhmXp6nTDSjaXL6"
+  },
+  {
+    "name": "Segi Fresh Puchong Abadi",
+    "address": "No. 9-G, 11-G & 13-G,Ã‚Â  Jalan Abadi 2/1, Abadi Heights, 47120 Puchong, Selangor",
+    "city": "",
+    "postcode": "47120",
+    "state": "Selangor",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://goo.gl/maps/rYgc6PYcFrZmt5Dw8"
+  },
+  {
+    "name": "Segi Fresh Puchong Denai",
+    "address": "33, 35, 37, 39 & 41, Jalan Denai Utama, Taman Puchong Denai, 47100 Puchong, Selangor",
+    "city": "Puchong",
+    "postcode": "47100",
+    "state": "Selangor",
+    "latitude": 3.0213715,
+    "longitude": 101.5966282,
+    "map": "https://goo.gl/maps/JBb6cSLNPadVawTb8"
+  },
+  {
+    "name": "Segi Fresh Pudu",
+    "address": "Lot 590, Jalan Pudu, 55100 Kuala Lumpur",
+    "city": "Maluri",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "latitude": 3.1322846,
+    "longitude": 101.7142041,
+    "map": "https://goo.gl/maps/UgEjTspj6mwVHF2m6"
+  },
+  {
+    "name": "Segi Fresh Pulau Indah",
+    "address": "No. 10-G, 11-G, 12-G, 12-1 & 13-G, Jalan Samudera 10/8C, Laguna Square, 42920 Pulau Indah, Selangor Darul Ehsan",
+    "city": "Klang",
+    "postcode": "42920",
+    "state": "Selangor",
+    "latitude": 2.937839,
+    "longitude": 101.3504345,
+    "map": "https://maps.app.goo.gl/G8oQFP3qsyR6jKG27"
+  },
+  {
+    "name": "Segi Fresh Puncak Alam",
+    "address": "No. 16-1, 18-1, 20-1 & 22-1, Jalan Dataran Suria 15/7/2, Seksyen 15, 42300 Puncak Alam, Selangor",
+    "city": "Bandar Puncak Alam",
+    "postcode": "42300",
+    "state": "Selangor",
+    "latitude": 3.2338504,
+    "longitude": 101.4121811,
+    "map": "https://goo.gl/maps/gZGePEjvgC6uqQCWA"
+  },
+  {
+    "name": "Segi Fresh Putrajaya",
+    "address": "No. 8 & 10, Nadi Commercial Lot 15, Jalan Pulau Pinang, Precint 15, 62050 Putrajaya, W. Persekutuan",
+    "city": "Putrajaya",
+    "postcode": "62050",
+    "state": "Kuala Lumpur",
+    "latitude": 2.9454571,
+    "longitude": 101.7197765,
+    "map": "https://goo.gl/maps/XdG9JSXLZx3zQ2gWA"
+  },
+  {
+    "name": "Segi Fresh Rantau Panjang",
+    "address": "No. 25, 27, 29, 31 & 33, Jalan Rantau Panjang 3/KU4, Batu 4, 42200 Klang, Selangor",
+    "city": "Taman Klang Utama",
+    "postcode": "42200",
+    "state": "Selangor",
+    "latitude": 3.0701374,
+    "longitude": 101.4085791,
+    "map": "https://goo.gl/maps/mdenroJwM8gGQb9V7"
+  },
+  {
+    "name": "Segi Fresh Sabak Bernam",
+    "address": "PT46 (GF), 47 (GF), 48 (GF), 49 (GF) & 50 (GF), Jalan Merpati, Taman Berjaya, 45200 Sabak Bernam, Selangor",
+    "city": "Sabak Bernam",
+    "postcode": "45200",
+    "state": "Selangor",
+    "latitude": 3.764707,
+    "longitude": 100.9779692,
+    "map": "https://goo.gl/maps/cCHxt823t7dBMhzV9"
+  },
+  {
+    "name": "Segi Fresh Salak Tinggi",
+    "address": "No. 38, 40, & 42, Jalan Seroja 7, Taman Seroja, 43900 Salak Tinggi, Selangor Darul Ehsan",
+    "city": "Bandar Baru Salak Tinggi",
+    "postcode": "43900",
+    "state": "Selangor",
+    "latitude": 2.8280536,
+    "longitude": 101.7267847,
+    "map": "https://maps.app.goo.gl/np5BQoFDuZLmmUKVA"
+  },
+  {
+    "name": "Segi Fresh Saujana Rawang",
+    "address": "42A, 46, 48, Jalan SR 4/1A, Saujana Rawang, 48000 Rawang, Selangor",
+    "city": "",
+    "postcode": "48000",
+    "state": "Selangor",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://maps.app.goo.gl/iLZvU7frZaU4eVy66"
+  },
+  {
+    "name": "Segi Fresh Saujana Utama",
+    "address": "16-G, 18-G, 20-G, 22-G & 24-G, Jalan Bidara 9/2, Saujana Utama 3, 47000 Sungai Buloh, Selangor",
+    "city": "Bandar Saujana Utama",
+    "postcode": "47000",
+    "state": "Selangor",
+    "latitude": 3.2023049,
+    "longitude": 101.4826045,
+    "map": "https://goo.gl/maps/LNmYaj77yC92o5496"
+  },
+  {
+    "name": "Segi Fresh Selayang",
+    "address": "No. 2 & 4, Jalan 2/3A, Pusat Bandar Utara KM 12 (Pasar Borong Selayang), Jalan Ipoh 68100 Batu Caves, Kuala Lumpur",
+    "city": "Kepong",
+    "postcode": "68100",
+    "state": "Kuala Lumpur",
+    "latitude": 3.2336122,
+    "longitude": 101.6689124,
+    "map": "https://goo.gl/maps/43TwjEqHC3rfBQtJ7"
+  },
+  {
+    "name": "Segi Fresh Setapak",
+    "address": "No. 2079-E, F & G, Setapak Village, No. 1617 Jalan Genting Kelang, Setapak 53300 Kuala Lumpur",
+    "city": "Setapak",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "latitude": 3.2017508,
+    "longitude": 101.7144947,
+    "map": "https://goo.gl/maps/NHnymLZCBWPQguQr8"
+  },
+  {
+    "name": "Segi Fresh Setia Mayuri",
+    "address": "No. 31-1 & 32-1, Jalan Mayuri 1/5A, Setia Mayuri, Semenyih, 43500 Selangor",
+    "city": "Semenyih",
+    "postcode": "43500",
+    "state": "Selangor",
+    "latitude": 2.9448936,
+    "longitude": 101.8635188,
+    "map": "https://maps.app.goo.gl/k8JpENZ9XSBseMnCA"
+  },
+  {
+    "name": "Segi Fresh Sg. Siput",
+    "address": "No. 47G, 48G & 49G, Persiaran Komersial 4, Komersial Waterfront, 31100 Sungai Siput, Perak Darul Ridzuan",
+    "city": "Sungai Siput",
+    "postcode": "31100",
+    "state": "Perak",
+    "latitude": 4.8302981,
+    "longitude": 101.0764157,
+    "map": "https://maps.app.goo.gl/STtuLxpHe18icgtK8"
+  },
+  {
+    "name": "Segi Fresh Sikamat",
+    "address": "207, 208, 209, 210 & 211, Jalan Persiaran Bukit Coral 1, Taman Bukit Coral, Sikamat, 70400 Seremban, Negeri Sembilan",
+    "city": "Temiang",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "latitude": 2.7531601,
+    "longitude": 101.9494962,
+    "map": "https://goo.gl/maps/rBxfzbK2sGN2D9gN7"
+  },
+  {
+    "name": "Segi Fresh Silibin",
+    "address": "No. 3-G, 5-G & 7-G, Jalan Aman, Kg Tengku Hussein Baru, 30020 Ipoh, Perak Darul Ridzuan",
+    "city": "Silibin",
+    "postcode": "30020",
+    "state": "Perak",
+    "latitude": 4.6197616,
+    "longitude": 101.0567382,
+    "map": "https://maps.app.goo.gl/Twas6Sxc9AnQ242EA"
+  },
+  {
+    "name": "Segi Fresh Simpang Pulai",
+    "address": "61, 63, 65, 67 & 69G, Jalan 1, Pusat Perniagaan Pulai, 31350 Kampung Kepayang, Perak",
+    "city": "Kinta",
+    "postcode": "31350",
+    "state": "Perak",
+    "latitude": 4.5280524,
+    "longitude": 101.1250499,
+    "map": "https://goo.gl/maps/DGA8nV8tuho1dQfS9"
+  },
+  {
+    "name": "Segi Fresh Slim River",
+    "address": "47-A, 48-A, 49-A & 50-A, Jalan Perdana 2, Pusat Perniagaan Slim Perdana, 32500 Slim River, Perak",
+    "city": "Slim River",
+    "postcode": "32500",
+    "state": "Perak",
+    "latitude": 3.8423627,
+    "longitude": 101.3915016,
+    "map": "https://goo.gl/maps/5Y5ryM5WXS5QhxD4A"
+  },
+  {
+    "name": "Segi Fresh Sri Gombak",
+    "address": "No. 12-G & 14-G, Jalan SG 3/5, Taman Sri Gombak, 68100, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Gombak",
+    "postcode": "68100",
+    "state": "Kuala Lumpur",
+    "latitude": 3.2420215,
+    "longitude": 101.7004354,
+    "map": "https://maps.app.goo.gl/ZyeBGstwKmBsaVuG9"
+  },
+  {
+    "name": "Segi Fresh Sri Iskandar",
+    "address": "No. 6-G, 7-G, 8-G, & 9-G Jalan Iskandar Bistari 2, Taman Iskandar Bistari, 32610 Seri Iskandar, Perak Darul Ridzuan",
+    "city": "Seri Iskandar",
+    "postcode": "32610",
+    "state": "Perak",
+    "latitude": 4.3610674,
+    "longitude": 100.9606752,
+    "map": "https://goo.gl/maps/s8VdQovBJQMp14uy7"
+  },
+  {
+    "name": "Segi Fresh Sri Manjung",
+    "address": "No 11-G, 12-G & 13-G, Jalan SM 1C/15, Fasa 1C4, Bandar Baru, 32040 Sri Manjung, Perak",
+    "city": "",
+    "postcode": "32040",
+    "state": "Perak",
+    "latitude": null,
+    "longitude": null,
+    "map": "https://goo.gl/maps/CzHfDUSPgCLjq6Ct9"
+  },
+  {
+    "name": "Segi Fresh Sri Muda",
+    "address": "7G, 9G, 11G & 13G, Jalan Damai 25/60, Taman Sri Muda, 40400 Shah Alam, Selangor",
+    "city": "Petaling",
+    "postcode": "40400",
+    "state": "Selangor",
+    "latitude": 3.0442418,
+    "longitude": 101.5261338,
+    "map": "https://goo.gl/maps/YY8NbXoeSQTreUeR6"
+  },
+  {
+    "name": "Segi Fresh Subang",
+    "address": "PT 17920, Seksyen U9, 40150 Shah Alam, Selangor",
+    "city": "Subang",
+    "postcode": "40150",
+    "state": "Selangor",
+    "latitude": 3.1460586,
+    "longitude": 101.5228592,
+    "map": "https://goo.gl/maps/PLCGiTqnBMXg7dGC7"
+  },
+  {
+    "name": "Segi Fresh Subang U5",
+    "address": "No. 48G, 50G & 52G, Jalan Pluto AY U5/AY, Bandar Pinggiran Subang, Seksyen U5, 40140 Shah Alam, Selangor Darul Ehsan",
+    "city": "Subang",
+    "postcode": "40140",
+    "state": "Selangor",
+    "latitude": 3.1613668,
+    "longitude": 101.534063,
+    "map": "https://maps.app.goo.gl/98cLUfEPVHNSuPrJ8"
+  },
+  {
+    "name": "Segi Fresh Sungai Besar",
+    "address": "No. 2, 3A, 6, 8, 10, 12 Jalan SBBC Satu, Sungai Besar Business Centre, 45300 Sungai Besar, Selangor",
+    "city": "Sungai Besar",
+    "postcode": "45300",
+    "state": "Selangor",
+    "latitude": 3.673343,
+    "longitude": 100.9867793,
+    "map": "https://goo.gl/maps/cuKZeyXuqDo9tn2H8"
+  },
+  {
+    "name": "Segi Fresh Sungai Tua",
+    "address": "No. 5-G, 6-G & 7-G, Jalan BCU 1, Kawasan Perindustrian Batu Caves Utara, 68100 Batu Caves, Selangor",
+    "city": "Batu Caves",
+    "postcode": "68100",
+    "state": "Selangor",
+    "latitude": 3.2651312,
+    "longitude": 101.6784456,
+    "map": "https://goo.gl/maps/eMWGU1dhPcu6yLgXA"
+  },
+  {
+    "name": "Segi Fresh Sungai Udang",
+    "address": "3429-E,F,G,H,I,J (Ground Floor) and 3429-E1 & F1 (First Floor), Jalan Sungai Udang, Kampung Sungai Udang, 41250 Teluk Pulai, Klang, Selangor",
+    "city": "Pelabuhan Klang",
+    "postcode": "41250",
+    "state": "Selangor",
+    "latitude": 3.034972,
+    "longitude": 101.4091334,
+    "map": "https://goo.gl/maps/N3kvwCcdbJJ9Jjev6"
+  },
+  {
+    "name": "Segi Fresh Sungkai",
+    "address": "No. 43-G, 44-G, 45-G, 46-G & 47-G, Jalan Sentral Sungkai 2, Sentral Sungkai, 35600 Sungkai, Perak",
+    "city": "Sungkai",
+    "postcode": "35600",
+    "state": "Perak",
+    "latitude": 4.0087846,
+    "longitude": 101.3029612,
+    "map": "https://goo.gl/maps/16k6jN6jaHUg5J22A"
+  },
+  {
+    "name": "Segi Fresh Surian Mantin",
+    "address": "No. 1-G & 2G, Jalan Surian 11, Taman Surian, 71700 Mantin, Negeri Sembilan Darul Khusus",
+    "city": "Seremban",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "latitude": 2.8358106,
+    "longitude": 101.8658773,
+    "map": "https://maps.app.goo.gl/BVMGUej7j18tcckM9"
+  },
+  {
+    "name": "Segi Fresh Taman Amaniah",
+    "address": "No. 9-G & 10-G, Jalan Batu Caves, Taman Batu Caves, 68100 Batu Caves, Selangor",
+    "city": "Batu Caves",
+    "postcode": "68100",
+    "state": "Selangor",
+    "latitude": 3.2361111,
+    "longitude": 101.6741438,
+    "map": "https://goo.gl/maps/TBYghXEk1rK6SDSg8"
+  },
+  {
+    "name": "Segi Fresh Taman Mas Puchong",
+    "address": "No. 79-G-GF, 81-G-GF, 83-G-GF, 85-G-GF, 87-G-GF, Spring Court 2, Jalan Dagang Mas, Taman Mas, 47100 Puchong, Selangor",
+    "city": "Kuala Langat",
+    "postcode": "47100",
+    "state": "Selangor",
+    "latitude": 2.9748689,
+    "longitude": 101.5756923,
+    "map": "https://goo.gl/maps/e8rWhxZXtH6gAoVr9"
+  },
+  {
+    "name": "Segi Fresh Tanjung Karang",
+    "address": "30, 32, 34, 36, 38, 40 & 42 Ground Floor, Jalan 2, Taman Tanjong Karang, 45500 Tanjong Karang, Selangor",
+    "city": "Tanjong Karang",
+    "postcode": "45500",
+    "state": "Selangor",
+    "latitude": 3.4236323,
+    "longitude": 101.1773255,
+    "map": "https://goo.gl/maps/isgYBjdWT3F1TwVBA"
+  },
+  {
+    "name": "Segi Fresh Tanjung Malim",
+    "address": "PT17028, 17029, 17030, 17031, 17032, 17033, & 17034, Jalan Permai 1, Taman Ketoyong Permai, 35900 Tanjung Malim, Perak",
+    "city": "Tanjong Malim",
+    "postcode": "35900",
+    "state": "Perak",
+    "latitude": 3.6940035,
+    "longitude": 101.5144391,
+    "map": "https://goo.gl/maps/16z7HfkEfZNU5SzT7"
+  },
+  {
+    "name": "Segi Fresh Tanjung Rambutan",
+    "address": "No. 81-G, 83-G, & 85-G, Lorong Sungai Choh 10, Tanjong Perdana, 31250 Tanjung Rambutan, Perak Darul Ridzuan",
+    "city": "Kinta",
+    "postcode": "31250",
+    "state": "Perak",
+    "latitude": 4.6607497,
+    "longitude": 101.1594233,
+    "map": "https://goo.gl/maps/hysEmbGafpWbGKLK9"
+  },
+  {
+    "name": "Segi Fresh Tapah",
+    "address": "No. 4, 5, 6, 7 & 8, Jalan Akasia 2/1, Pusat Perdagangan Akasia 2, 35000 Tapah, Perak",
+    "city": "Tapah",
+    "postcode": "35000",
+    "state": "Perak",
+    "latitude": 4.1928996,
+    "longitude": 101.264185,
+    "map": "https://www.google.com/maps/place/4%C2%B011'34.7%22N+101%C2%B015'52.3%22E/@4.1928996,101.264185,19.37z/data=!4m5!3m4!1s0x0:0x0!8m2!3d4.1929608!4d101.2645358"
+  },
+  {
+    "name": "Segi Fresh Tasek Damai",
+    "address": "No. 4G, 6G, & 8G, Jalan Tawas Baru 1, Taman Tasek Damai 30010 Ipoh, Perak Darul Ridzuan",
+    "city": "Kinta",
+    "postcode": "30010",
+    "state": "Perak",
+    "latitude": 4.6527593,
+    "longitude": 101.1022602,
+    "map": "https://maps.app.goo.gl/BH8o3ujVEp7cDu4b9"
+  },
+  {
+    "name": "Segi Fresh Teluk Intan",
+    "address": "No. 68-G, 69-G, 70-G, 71-G & 72-G, Persiaran Melor 2,Taman Melor 3, Jalan Sungai Manik, 36000 Teluk Intan, Perak",
+    "city": "Hilir Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "latitude": 4.0181074,
+    "longitude": 101.040433,
+    "map": "https://goo.gl/maps/oXv8ALerKzLfpqgY6"
+  },
+  {
+    "name": "Segi Fresh Tlk. Panglima Garang",
+    "address": "Lot 621, 6, Jalan Gangsa, Kawasan Perindustrian Telok Panglima Garang, 42500 Telok Panglima Garang, Selangor",
+    "city": "Teluk Panglima Garang",
+    "postcode": "42500",
+    "state": "Selangor",
+    "latitude": 2.9189852,
+    "longitude": 101.4729468,
+    "map": "https://goo.gl/maps/4MBaGxGHKYV5ySp19"
+  },
+  {
+    "name": "Segi Fresh Tmn. Putra Perdana",
+    "address": "No. 8A, 8B, 10A, & 10B Jalan PP SC/1, Taman Putra Perdana, 47100 Puchong, Selangor Darul Ehsan",
+    "city": "Taman Putra Perdana",
+    "postcode": "47100",
+    "state": "Selangor",
+    "latitude": 2.9449043,
+    "longitude": 101.6160333,
+    "map": "https://goo.gl/maps/FgvCj9LFnmUGyJCg8"
+  },
+  {
+    "name": "Segi Fresh Tmn. Seri Raban",
+    "address": "No 19-G, 19-A, 20-G, 20-A, 20-B, Taman Seri Raban, 33400 Lenggong, Perak",
+    "city": "Hulu Perak",
+    "postcode": "33400",
+    "state": "Perak",
+    "latitude": 5.0048982,
+    "longitude": 100.9496475,
+    "map": "https://maps.app.goo.gl/C7S9JXX2bdVVn2EH6"
+  },
+  {
+    "name": "Segi Fresh Tronoh",
+    "address": "No. 27G, 29G, & 31G, Persiaran Baru 1, Taman Tronoh Baru, 31750 Tronoh, Perak Darul Ridzuan",
+    "city": "Kinta",
+    "postcode": "31750",
+    "state": "Perak",
+    "latitude": 4.419972,
+    "longitude": 100.9870127,
+    "map": "https://maps.app.goo.gl/dknnCuR2ksbubL2e6"
+  },
+  {
+    "name": "Segi Fresh Bagan Serai",
+    "address": "No. 40-G, 42-G & 44-G, Jalan Syed Thaupy 2, Pusat Bandar Baru, 34300 Bagan Serai, Perak Darul Ridzuan",
+    "city": "Mukim Bagan Serai",
+    "postcode": "34300",
+    "state": "Perak",
+    "latitude": 5.0104717,
+    "longitude": 100.5387944,
+    "map": "https://maps.app.goo.gl/wipqDgypHNSu49tn6"
+  },
+  {
+    "name": "Segi Fresh Bukit Beruntung 2",
+    "address": "No. 27G, 29G & 29-1, Jalan Inai 2, Bukit Beruntung, 48300 Rawang, Selangor.",
+    "city": "Bukit Beruntung",
+    "postcode": "48300",
+    "state": "Selangor",
+    "latitude": 3.4299189,
+    "longitude": 101.5547589,
+    "map": "https://maps.app.goo.gl/AszHVwkk7wQA9oyT7"
+  },
+  {
+    "name": "Segi Fresh Gerik",
+    "address": "No. 35, 36, 37 & 38, Jalan Raflesia 1, Taman Raflesia Fasa 1, 33300 Gerik, Perak",
+    "city": "Hulu Perak",
+    "postcode": "33300",
+    "state": "Perak",
+    "latitude": 5.4120554,
+    "longitude": 101.1263704,
+    "map": "https://maps.app.goo.gl/WRR7cHW9wrPyX5c36"
+  },
+  {
+    "name": "Segi Fresh Ijok",
+    "address": "No. 6, 8, 10, Jalan Ijok Utama 4, Taman Ijok Utama, 46520 Batang Berjuntai, Selangor",
+    "city": "Ijok",
+    "postcode": "46520",
+    "state": "Selangor",
+    "latitude": 3.3126785,
+    "longitude": 101.4071998,
+    "map": "https://maps.app.goo.gl/BFW81ZmbMCUyVHSB8"
+  },
+  {
+    "name": "Segi Fresh Nibong Tebal",
+    "address": "NO. 2G & 6G, Lorong Seri Emas Indah 2, Taman Seri Emas Indah, 14300 Nibong Tebal, Pulau Pinang",
+    "city": "Nibong Tebal",
+    "postcode": "14300",
+    "state": "Pulau Pinang",
+    "latitude": 5.1397919,
+    "longitude": 100.4765611,
+    "map": "https://maps.app.goo.gl/2pP7uPSJkhCFMoes5"
+  },
+  {
+    "name": "Segi Fresh Selama",
+    "address": "No. 15, 16, 17, & 18, Persiaran lxora, Pusat Perniagaan lxora, 34100 Perak Darul Ridzuan",
+    "city": "Selama (Perak)",
+    "postcode": "34100",
+    "state": "Perak",
+    "latitude": 5.2251299,
+    "longitude": 100.686664,
+    "map": "https://maps.app.goo.gl/jWP3DteiqXbfqXws8"
+  },
+  {
+    "name": "Segi Fresh Serdang Kedah",
+    "address": "No. 10-G, 11-G & 12-G, Kompleks UMNO, Jalan Raya, 09800 Serdang, Kedah Darul Aman.",
+    "city": "Serdang",
+    "postcode": "09800",
+    "state": "Kedah",
+    "latitude": 5.2095955,
+    "longitude": 100.6073841,
+    "map": "https://maps.app.goo.gl/g3ThaHMtdzt5LqKd9"
+  },
+  {
+    "name": "Segi Fresh Station 18 Pengkalan",
+    "address": "No. 22A,22A-1 & 22B,Jalan Lahat Baru 4,Taman Badri Shah,31500,Perak Darul Ridzuan",
+    "city": "Kinta",
+    "postcode": "31500",
+    "state": "Perak",
+    "latitude": 4.5416172,
+    "longitude": 101.0439685,
+    "map": "https://maps.app.goo.gl/yvqjkE6j8MG9LS7A6"
+  },
+  {
+    "name": "Ehsan Segi Fresh BNO",
+    "address": "Peladang Outlet PPK Bernam Jaya, Lot 608, Simpang 4 BNO, 45200 Sabak Bernam, Selangor Darul Ehsan",
+    "city": "Sabak Bernam",
+    "postcode": "45200",
+    "state": "Selangor",
+    "latitude": 3.7761141,
+    "longitude": 100.8769456,
+    "map": "https://maps.app.goo.gl/ZC5vbBTZDUGnrCaL6"
+  },
+  {
+    "name": "Ehsan Segi Fresh Kalumpang",
+    "address": "No. 22 & 23, Jalan Rajawali 3, Taman Rajawali, 44000 Kerling, Selangor",
+    "city": "Hulu Selangor",
+    "postcode": "44000",
+    "state": "Selangor",
+    "latitude": 3.6439775,
+    "longitude": 101.5554336,
+    "map": "https://maps.app.goo.gl/m9vMjpyC3mBdfFcw6"
+  },
+  {
+    "name": "Ehsan Segi Fresh Rawang",
+    "address": "No. 10 & 11, Jalan Bersatu 8, Taman Bersatu, 48000 Rawang, Selangor",
+    "city": "Rawang",
+    "postcode": "48000",
+    "state": "Selangor",
+    "latitude": 3.3098282,
+    "longitude": 101.5773461,
+    "map": "https://maps.app.goo.gl/zhTPY6sdcPKiFt647"
+  },
+  {
+    "name": "Ehsan Segi Fresh Meru",
+    "address": "No. 4, Taman Dato Bandar, Meru, Selangor",
+    "city": "Taman Klang Utama",
+    "postcode": "42100",
+    "state": "Selangor",
+    "latitude": 3.0951524,
+    "longitude": 101.4107771,
+    "map": "https://maps.app.goo.gl/859JG9mMYZChs6Ab7"
+  },
+  {
+    "name": "Ehsan Segi Fresh Tanjung Sepat",
+    "address": "No. 4, Batu Laut, 42800 Tanjong Sepat, Selangor",
+    "city": "Kuala Langat",
+    "postcode": "42800",
+    "state": "Selangor",
+    "latitude": 2.6758743,
+    "longitude": 101.5100833,
+    "map": "https://maps.app.goo.gl/rfomRnBh8vtNQAaKA"
+  },
+  {
+    "name": "Ehsan Segi Fresh  Bukit Mahkota Kajang",
+    "address": "No 6G & 7G, Jalan BM 7/20, Bandar Bukit Mahkota,43000 Kajang, Selangor",
+    "city": "Bangi Lama",
+    "postcode": "43000",
+    "state": "Selangor",
+    "latitude": 2.8709103,
+    "longitude": 101.811807,
+    "map": "https://maps.app.goo.gl/nrzsU4M3B142WSEC8"
+  },
+  {
+    "name": "Ehsan Segi Setia Mayuri",
+    "address": "No. 32, 1, Jalan Mayuri 1/5A, Setia Mayuri, 43500 Semenyih, Selangor",
+    "city": "Semenyih",
+    "postcode": "43500",
+    "state": "Selangor",
+    "latitude": 2.9448936,
+    "longitude": 101.8635134,
+    "map": "https://maps.app.goo.gl/X7BecM1M1QtzfUxg7"
+  },
+  {
+    "name": "Ehsan Segi Sri Muda",
+    "address": "7G, 9G, 11G & 13G, Jalan Damai 25/60, Taman Sri Muda, 40400 Shah Alam, Selangor",
+    "city": "Taman Sri Muda",
+    "postcode": "40400",
+    "state": "Selangor",
+    "latitude": 3.030906,
+    "longitude": 101.5329907,
+    "map": "https://maps.app.goo.gl/6prBGF1qtyzcPT6k7"
+  }
+]

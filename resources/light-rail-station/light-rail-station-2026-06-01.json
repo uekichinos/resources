@@ -1,0 +1,1384 @@
+[
+  {
+    "line": "Ampang",
+    "code": "AG",
+    "type": "lrt",
+    "stations": [
+      {
+        "code": "AG1",
+        "name": "Sentul Timur",
+        "latitude": 3.185833,
+        "longitude": 101.695278,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG2",
+        "name": "Sentul",
+        "latitude": 3.183333,
+        "longitude": 101.688889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG3",
+        "name": "Titiwangsa",
+        "latitude": 3.1730556,
+        "longitude": 101.6952778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG4",
+        "name": "PWTC",
+        "latitude": 3.166389,
+        "longitude": 101.693333,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG5",
+        "name": "Sultan Ismail",
+        "latitude": 3.161111,
+        "longitude": 101.693889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG6",
+        "name": "Bandaraya–UOB",
+        "latitude": 3.155556,
+        "longitude": 101.694167,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG7",
+        "name": "Masjid Jamek",
+        "latitude": 3.149444,
+        "longitude": 101.696111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG8",
+        "name": "Plaza Rakyat",
+        "latitude": 3.144444,
+        "longitude": 101.701389,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG9",
+        "name": "BBCC–Hang Tuah",
+        "latitude": 3.14,
+        "longitude": 101.705833,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG10",
+        "name": "Pudu",
+        "latitude": 3.134722,
+        "longitude": 101.711667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG11",
+        "name": "Chan Sow Lin",
+        "latitude": 3.127778,
+        "longitude": 101.715278,
+        "parking": false,
+        "connections": [
+          "PY24"
+        ]
+      },
+      {
+        "code": "AG12",
+        "name": "Miharja",
+        "latitude": 3.120833,
+        "longitude": 101.7175,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG13",
+        "name": "Maluri",
+        "latitude": 3.1232611,
+        "longitude": 101.7269611,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG14",
+        "name": "Pandan Jaya",
+        "latitude": 3.13,
+        "longitude": 101.738611,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG15",
+        "name": "Pandan Indah",
+        "latitude": 3.134444,
+        "longitude": 101.746389,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG16",
+        "name": "Cempaka",
+        "latitude": 3.138333,
+        "longitude": 101.752778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG17",
+        "name": "Cahaya",
+        "latitude": 3.140556,
+        "longitude": 101.756389,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "AG18",
+        "name": "Ampang",
+        "latitude": 3.1502778,
+        "longitude": 101.76,
+        "parking": false,
+        "connections": []
+      }
+    ]
+  },
+  {
+    "line": "Sri Petaling",
+    "code": "SP",
+    "type": "lrt",
+    "stations": [
+      {
+        "code": "SP1",
+        "name": "Sentul Timur",
+        "latitude": 3.185833,
+        "longitude": 101.695278,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP2",
+        "name": "Sentul",
+        "latitude": 3.183333,
+        "longitude": 101.688889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP3",
+        "name": "Titiwangsa",
+        "latitude": 3.1730556,
+        "longitude": 101.6952778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP4",
+        "name": "PWTC",
+        "latitude": 3.166389,
+        "longitude": 101.693333,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP5",
+        "name": "Sultan Ismail",
+        "latitude": 3.161111,
+        "longitude": 101.693889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP6",
+        "name": "Bandaraya–UOB",
+        "latitude": 3.155556,
+        "longitude": 101.694167,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP7",
+        "name": "Masjid Jamek",
+        "latitude": 3.149444,
+        "longitude": 101.696111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP8",
+        "name": "Plaza Rakyat",
+        "latitude": 3.144444,
+        "longitude": 101.701389,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP9",
+        "name": "BBCC–Hang Tuah",
+        "latitude": 3.14,
+        "longitude": 101.705833,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP10",
+        "name": "Pudu",
+        "latitude": 3.134722,
+        "longitude": 101.711667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP11",
+        "name": "Chan Sow Lin",
+        "latitude": 3.127778,
+        "longitude": 101.715278,
+        "parking": false,
+        "connections": [
+          "PY24"
+        ]
+      },
+      {
+        "code": "SP12",
+        "name": "Cheras",
+        "latitude": 3.1125,
+        "longitude": 101.7141667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP13",
+        "name": "Salak Selatan",
+        "latitude": 3.098333,
+        "longitude": 101.704722,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP14",
+        "name": "Bandar Tun Razak",
+        "latitude": 3.089722,
+        "longitude": 101.712222,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP15",
+        "name": "Bandar Tasik Selatan",
+        "latitude": 3.076111,
+        "longitude": 101.710556,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP16",
+        "name": "Sungai Besi",
+        "latitude": 3.063889,
+        "longitude": 101.707778,
+        "parking": false,
+        "connections": [
+          "PY29"
+        ]
+      },
+      {
+        "code": "SP17",
+        "name": "Bukit Jalil",
+        "latitude": 3.0580556,
+        "longitude": 101.6919444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP18",
+        "name": "Sri Petaling",
+        "latitude": 3.0613889,
+        "longitude": 101.6869444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP19",
+        "name": "Awan Besar",
+        "latitude": 3.0621,
+        "longitude": 101.6706,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP20",
+        "name": "Muhibbah",
+        "latitude": 3.0620556,
+        "longitude": 101.6625,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP21",
+        "name": "Alam Sutera",
+        "latitude": 3.0547778,
+        "longitude": 101.6564444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP22",
+        "name": "Kinrara BK 5",
+        "latitude": 3.0505556,
+        "longitude": 101.6442222,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP24",
+        "name": "IOI Puchong Jaya",
+        "latitude": 3.0480833,
+        "longitude": 101.6208889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP25",
+        "name": "Pusat Bandar Puchong",
+        "latitude": 3.0332778,
+        "longitude": 101.6160278,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP26",
+        "name": "Taman Perindustrian Puchong",
+        "latitude": 3.0228611,
+        "longitude": 101.6135,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP27",
+        "name": "Bandar Puteri",
+        "latitude": 3.0170556,
+        "longitude": 101.6128333,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP28",
+        "name": "Puchong Perdana",
+        "latitude": 3.0077778,
+        "longitude": 101.6049722,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP29",
+        "name": "Puchong Prima",
+        "latitude": 2.9999444,
+        "longitude": 101.5966944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "SP31",
+        "name": "Putra Heights",
+        "latitude": 2.9960556,
+        "longitude": 101.5755556,
+        "parking": false,
+        "connections": [
+          "KJ37"
+        ]
+      }
+    ]
+  },
+  {
+    "line": "Kelana Jaya",
+    "code": "KJ",
+    "type": "lrt",
+    "stations": [
+      {
+        "code": "KJ1",
+        "name": "Gombak",
+        "latitude": 3.231913,
+        "longitude": 101.722873,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ2",
+        "name": "Taman Melati",
+        "latitude": 3.219444,
+        "longitude": 101.721667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ3",
+        "name": "Wangsa Maju",
+        "latitude": 3.205556,
+        "longitude": 101.731389,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ4",
+        "name": "Sri Rampai",
+        "latitude": 3.198889,
+        "longitude": 101.736944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ5",
+        "name": "Setiawangsa",
+        "latitude": 3.1757139,
+        "longitude": 101.7358583,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ6",
+        "name": "Jelatek",
+        "latitude": 3.1673,
+        "longitude": 101.7353,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ7",
+        "name": "Dato' Keramat",
+        "latitude": 3.165,
+        "longitude": 101.7316667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ8",
+        "name": "Damai",
+        "latitude": 3.164444,
+        "longitude": 101.724167,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ9",
+        "name": "Ampang Park",
+        "latitude": 3.1597222,
+        "longitude": 101.7186111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ10",
+        "name": "KLCC",
+        "latitude": 3.1591667,
+        "longitude": 101.7138889,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ11",
+        "name": "Kampung Baru–Co-opbank Pertama",
+        "latitude": 3.161111,
+        "longitude": 101.706389,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ12",
+        "name": "Dang Wangi",
+        "latitude": 3.156667,
+        "longitude": 101.701667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ13",
+        "name": "Masjid Jamek",
+        "latitude": 3.149444,
+        "longitude": 101.696111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ14",
+        "name": "Pasar Seni",
+        "latitude": 3.1425,
+        "longitude": 101.6952778,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ15",
+        "name": "KL Sentral–redONE",
+        "latitude": 3.134,
+        "longitude": 101.686,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ16",
+        "name": "Bank Rakyat–Bangsar",
+        "latitude": 3.12749,
+        "longitude": 101.67904,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ17",
+        "name": "Abdullah Hukum",
+        "latitude": 3.11444,
+        "longitude": 101.662,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ18",
+        "name": "Kerinchi",
+        "latitude": 3.1152778,
+        "longitude": 101.6680556,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ19",
+        "name": "Universiti",
+        "latitude": 3.11444,
+        "longitude": 101.662,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ20",
+        "name": "Taman Jaya",
+        "latitude": 3.1038889,
+        "longitude": 101.645,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ21",
+        "name": "Asia Jaya",
+        "latitude": 3.104167,
+        "longitude": 101.637778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ22",
+        "name": "Taman Paramount",
+        "latitude": 3.1044444,
+        "longitude": 101.6230556,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ23",
+        "name": "Taman Bahagia",
+        "latitude": 3.1105556,
+        "longitude": 101.6125,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ24",
+        "name": "Kelana Jaya",
+        "latitude": 3.1125,
+        "longitude": 101.6038889,
+        "parking": false,
+        "connections": [
+          "PY41"
+        ]
+      },
+      {
+        "code": "KJ25",
+        "name": "Lembah Subang",
+        "latitude": 3.1121,
+        "longitude": 101.5912,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ26",
+        "name": "Ara Damansara",
+        "latitude": 3.1083611,
+        "longitude": 101.5864722,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ27",
+        "name": "Glenmarie",
+        "latitude": 3.0958,
+        "longitude": 101.5905,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ28",
+        "name": "Subang Jaya",
+        "latitude": 3.084722,
+        "longitude": 101.588056,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ29",
+        "name": "SS15",
+        "latitude": 3.0758,
+        "longitude": 101.5861,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ30",
+        "name": "SS18",
+        "latitude": 3.0669444,
+        "longitude": 101.5861111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ31",
+        "name": "USJ 7",
+        "latitude": 3.054888,
+        "longitude": 101.59188,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ32",
+        "name": "Taipan",
+        "latitude": 3.0477778,
+        "longitude": 101.5902778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ33",
+        "name": "Wawasan",
+        "latitude": 3.035,
+        "longitude": 101.5880556,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ34",
+        "name": "USJ 21",
+        "latitude": 3.03,
+        "longitude": 101.5822222,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ35",
+        "name": "Alam Megah",
+        "latitude": 3.0230556,
+        "longitude": 101.5719444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KJ36",
+        "name": "Subang Alam",
+        "latitude": 3.0097222,
+        "longitude": 101.5722222,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KJ37",
+        "name": "Putra Heights",
+        "latitude": 2.9960556,
+        "longitude": 101.5755556,
+        "parking": true,
+        "connections": []
+      }
+    ]
+  },
+  {
+    "line": "KL Monorail",
+    "code": "MR",
+    "type": "monorail",
+    "stations": [
+      {
+        "code": "MR1",
+        "name": "KL Sentral",
+        "latitude": 3.134,
+        "longitude": 101.686,
+        "parking": false,
+        "connections": [
+          "KJ15",
+          "KG15"
+        ]
+      },
+      {
+        "code": "MR2",
+        "name": "Tun Sambanthan",
+        "latitude": 3.1313889,
+        "longitude": 101.6905556,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR3",
+        "name": "Maharajalela",
+        "latitude": 3.1388889,
+        "longitude": 101.6988889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR4",
+        "name": "BBCC–Hang Tuah",
+        "latitude": 3.14,
+        "longitude": 101.705833,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR5",
+        "name": "Imbi",
+        "latitude": 3.142778,
+        "longitude": 101.709167,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR6",
+        "name": "Bukit Bintang",
+        "latitude": 3.1465028,
+        "longitude": 101.7109472,
+        "parking": false,
+        "connections": [
+          "KJ10"
+        ]
+      },
+      {
+        "code": "MR7",
+        "name": "Raja Chulan",
+        "latitude": 3.1505556,
+        "longitude": 101.7102778,
+        "parking": false,
+        "connections": [
+          "KJ10"
+        ]
+      },
+      {
+        "code": "MR8",
+        "name": "Bukit Nanas",
+        "latitude": 3.1561111,
+        "longitude": 101.7044444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR9",
+        "name": "Medan Tuanku",
+        "latitude": 3.1591667,
+        "longitude": 101.6986111,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR10",
+        "name": "Chow Kit",
+        "latitude": 3.167222,
+        "longitude": 101.698056,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "MR11",
+        "name": "Titiwangsa",
+        "latitude": 3.1730556,
+        "longitude": 101.6952778,
+        "parking": false,
+        "connections": [
+          "AG3",
+          "SP3",
+          "PY17"
+        ]
+      }
+    ]
+  },
+  {
+    "line": "Kajang",
+    "code": "KG",
+    "type": "mrt",
+    "stations": [
+      {
+        "code": "KG04",
+        "name": "Kwasa Damansara",
+        "latitude": 3.1764722,
+        "longitude": 101.5725556,
+        "parking": true,
+        "connections": [
+          "PY01"
+        ]
+      },
+      {
+        "code": "KG05",
+        "name": "Kwasa Sentral",
+        "latitude": 3.1699139,
+        "longitude": 101.5647944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG06",
+        "name": "Kota Damansara–Thomson Hospital",
+        "latitude": 3.1503019,
+        "longitude": 101.5786167,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG07",
+        "name": "Surian–IOI Mall Damansara",
+        "latitude": 3.1496278,
+        "longitude": 101.5935917,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG08",
+        "name": "Mutiara Damansara",
+        "latitude": 3.1551722,
+        "longitude": 101.6087944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG09",
+        "name": "Bandar Utama",
+        "latitude": 3.1466444,
+        "longitude": 101.6187472,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KG10",
+        "name": "Taman Tun Dr Ismail–Deloitte (TTDI)",
+        "latitude": 3.1360889,
+        "longitude": 101.6307667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG11",
+        "name": "Seksyen 17",
+        "latitude": null,
+        "longitude": null,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG12",
+        "name": "Phileo Damansara",
+        "latitude": 3.1292861,
+        "longitude": 101.6428917,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KG13",
+        "name": "Pavilion Damansara Heights–Pusat Bandar Damansara",
+        "latitude": 3.1434111,
+        "longitude": 101.6622417,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KG14",
+        "name": "Semantan",
+        "latitude": 3.151125,
+        "longitude": 101.6654861,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG15",
+        "name": "Muzium Negara",
+        "latitude": 3.1373167,
+        "longitude": 101.6873361,
+        "parking": false,
+        "connections": [
+          "KJ15",
+          "MR1"
+        ]
+      },
+      {
+        "code": "KG16",
+        "name": "Pasar Seni",
+        "latitude": 3.1425,
+        "longitude": 101.6952778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG17",
+        "name": "Merdeka",
+        "latitude": 3.1419694,
+        "longitude": 101.70205,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG18A",
+        "name": "Pavilion Kuala Lumpur–Bukit Bintang",
+        "latitude": 3.1465028,
+        "longitude": 101.7109472,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG20",
+        "name": "Tun Razak Exchange (TRX)",
+        "latitude": 3.14287,
+        "longitude": 101.71996,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG21",
+        "name": "Cochrane",
+        "latitude": 3.132806,
+        "longitude": 101.722944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG22",
+        "name": "Maluri–AEON",
+        "latitude": 3.1232611,
+        "longitude": 101.7269611,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG23",
+        "name": "Taman Pertama",
+        "latitude": 3.1127389,
+        "longitude": 101.7292889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG24",
+        "name": "Taman Midah",
+        "latitude": 3.1045,
+        "longitude": 101.7321944,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG25",
+        "name": "Taman Mutiara",
+        "latitude": 3.091,
+        "longitude": 101.7404444,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG26",
+        "name": "Taman Connaught",
+        "latitude": 3.0791667,
+        "longitude": 101.7452222,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG27",
+        "name": "Taman Suntex",
+        "latitude": 3.0716,
+        "longitude": 101.7636,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG28",
+        "name": "Sri Raya",
+        "latitude": 3.0622778,
+        "longitude": 101.7728889,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KG29",
+        "name": "Bandar Tun Hussein Onn",
+        "latitude": 3.0482222,
+        "longitude": 101.775,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG30",
+        "name": "Batu 11 Cheras",
+        "latitude": 3.0413611,
+        "longitude": 101.7733333,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG31",
+        "name": "Bukit Dukung",
+        "latitude": 3.0264167,
+        "longitude": 101.7710833,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG33",
+        "name": "Sungai Jernih",
+        "latitude": 3.00075,
+        "longitude": 101.7840806,
+        "parking": true,
+        "connections": []
+      },
+      {
+        "code": "KG34",
+        "name": "Stadium Kajang",
+        "latitude": 2.994,
+        "longitude": 101.78625,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "KG35",
+        "name": "Kajang",
+        "latitude": null,
+        "longitude": null,
+        "parking": false,
+        "connections": []
+      }
+    ]
+  },
+  {
+    "line": "Putrajaya",
+    "code": "PY",
+    "type": "mrt",
+    "stations": [
+      {
+        "code": "PY01",
+        "name": "Kwasa Damansara",
+        "latitude": 3.1764722,
+        "longitude": 101.5725556,
+        "parking": false,
+        "connections": [
+          "KG04"
+        ]
+      },
+      {
+        "code": "PY03",
+        "name": "Kampung Selamat",
+        "latitude": 3.1973,
+        "longitude": 101.57845,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY04",
+        "name": "Sungai Buloh",
+        "latitude": 3.206389,
+        "longitude": 101.580278,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY05",
+        "name": "Damansara Damai",
+        "latitude": 3.2,
+        "longitude": 101.5927778,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY06",
+        "name": "Sri Damansara Barat",
+        "latitude": 3.1977778,
+        "longitude": 101.6083333,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY07",
+        "name": "Sri Damansara Sentral",
+        "latitude": 3.19854,
+        "longitude": 101.62115,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY08",
+        "name": "Sri Damansara Timur",
+        "latitude": 3.2080464,
+        "longitude": 101.6287857,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY09",
+        "name": "Metro Prima",
+        "latitude": 3.2145678,
+        "longitude": 101.6403655,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY10",
+        "name": "Kepong Baru",
+        "latitude": 3.2118902,
+        "longitude": 101.6480401,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY11",
+        "name": "Jinjang",
+        "latitude": 3.209552,
+        "longitude": 101.656064,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY12",
+        "name": "Sri Delima",
+        "latitude": 3.2072467,
+        "longitude": 101.6654514,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY13",
+        "name": "Kampung Batu",
+        "latitude": 3.1980833,
+        "longitude": 101.6811667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY14",
+        "name": "Kentonmen",
+        "latitude": 3.1954302,
+        "longitude": 101.6796136,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY15",
+        "name": "Jalan Ipoh",
+        "latitude": 3.1893056,
+        "longitude": 101.6811667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY16",
+        "name": "Sentul Barat",
+        "latitude": 3.1784263,
+        "longitude": 101.6856587,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY17",
+        "name": "Titiwangsa",
+        "latitude": 3.1730556,
+        "longitude": 101.6952778,
+        "parking": false,
+        "connections": [
+          "AG3",
+          "SP3",
+          "MR11"
+        ]
+      },
+      {
+        "code": "PY18",
+        "name": "Hospital Kuala Lumpur",
+        "latitude": 3.1742137,
+        "longitude": 101.7016544,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY19",
+        "name": "Raja Uda",
+        "latitude": 3.1676233,
+        "longitude": 101.7100406,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY20",
+        "name": "Ampang Park",
+        "latitude": 3.1597222,
+        "longitude": 101.7186111,
+        "parking": false,
+        "connections": [
+          "KJ9"
+        ]
+      },
+      {
+        "code": "PY21",
+        "name": "Persiaran KLCC",
+        "latitude": 3.1569156,
+        "longitude": 101.7172676,
+        "parking": false,
+        "connections": [
+          "KJ10"
+        ]
+      },
+      {
+        "code": "PY22",
+        "name": "Conlay-Kompleks Kraf",
+        "latitude": 3.1514444,
+        "longitude": 101.7176944,
+        "parking": false,
+        "connections": [
+          "KJ10",
+          "MR6",
+          "MR7",
+          "KG18A"
+        ]
+      },
+      {
+        "code": "PY23",
+        "name": "Tun Razak Exchange",
+        "latitude": 3.14287,
+        "longitude": 101.71996,
+        "parking": false,
+        "connections": [
+          "KG20"
+        ]
+      },
+      {
+        "code": "PY24",
+        "name": "Chan Sow Lin",
+        "latitude": 3.127778,
+        "longitude": 101.715278,
+        "parking": false,
+        "connections": [
+          "AG11",
+          "SP11"
+        ]
+      },
+      {
+        "code": "PY27",
+        "name": "Kuchai",
+        "latitude": 3.0894444,
+        "longitude": 101.6941667,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY28",
+        "name": "Taman Naga Emas",
+        "latitude": 3.0772222,
+        "longitude": 101.6997222,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY29",
+        "name": "Sungai Besi",
+        "latitude": 3.063889,
+        "longitude": 101.707778,
+        "parking": false,
+        "connections": [
+          "SP16"
+        ]
+      },
+      {
+        "code": "PY31",
+        "name": "Serdang Raya Utara",
+        "latitude": 3.042449,
+        "longitude": 101.705226,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY32",
+        "name": "Serdang Raya Selatan",
+        "latitude": 3.028454,
+        "longitude": 101.707708,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY33",
+        "name": "Serdang Jaya",
+        "latitude": 3.021213,
+        "longitude": 101.709075,
+        "parking": false,
+        "connections": [
+          "KG30"
+        ]
+      },
+      {
+        "code": "PY34",
+        "name": "UPM",
+        "latitude": 3.008559,
+        "longitude": 101.70554,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY36",
+        "name": "Taman Equine",
+        "latitude": 2.989196,
+        "longitude": 101.672424,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY37",
+        "name": "Putra Permai",
+        "latitude": 2.983014,
+        "longitude": 101.660711,
+        "parking": false,
+        "connections": [
+          "SP28"
+        ]
+      },
+      {
+        "code": "PY38",
+        "name": "16 Sierra",
+        "latitude": 2.9654444,
+        "longitude": 101.6548889,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY39",
+        "name": "Cyberjaya Utara-Finexus",
+        "latitude": 2.9500833,
+        "longitude": 101.65725,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY40",
+        "name": "Cyberjaya City Centre",
+        "latitude": 2.9384444,
+        "longitude": 101.6658611,
+        "parking": false,
+        "connections": []
+      },
+      {
+        "code": "PY41",
+        "name": "Putrajaya Sentral",
+        "latitude": 2.9315278,
+        "longitude": 101.6709444,
+        "parking": false,
+        "connections": []
+      }
+    ]
+  }
+]

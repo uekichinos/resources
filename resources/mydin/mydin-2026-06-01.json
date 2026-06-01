@@ -1,0 +1,832 @@
+[
+  {
+    "name": "MYDIN ANJUNG BAZAAR",
+    "address": "No. 25, Ground Floor, Anjung Neighbourhood Centre 5 Persiaran Ledang Heights, Nusajaya 79250 Johor Bharu, Johor",
+    "city": "Gelang Patah",
+    "postcode": "79250",
+    "state": "Johor",
+    "phone": "",
+    "latitude": 1.424102,
+    "longitude": 103.617448
+  },
+  {
+    "name": "MYDIN BERTAM HYPERMARKET",
+    "address": "PSN Seksyen 4/7, No 2243, Jalan Tun Hamdan Syeikh, Bandar Putra Bertam, 13200 Kepala Batas, Pulau Pinang.",
+    "city": "Kepala Batas",
+    "postcode": "13200",
+    "state": "Pulau Pinang",
+    "phone": "",
+    "latitude": 5.519221,
+    "longitude": 100.478304
+  },
+  {
+    "name": "MYDIN BUKIT JAMBUL HYPERMARKET",
+    "address": "LG Lot 3A-B & G-M01, Kompleks Bukit Jambul, Jalan Rumbia, Bayan Lepas,11900 Pulau Pinang.",
+    "city": "Relau",
+    "postcode": "11900",
+    "state": "Pulau Pinang",
+    "phone": "",
+    "latitude": 5.334543,
+    "longitude": 100.291002
+  },
+  {
+    "name": "MYDIN BUKIT MERTAJAM HYPERMARKET",
+    "address": "Lot 3424, 1619, 1611, 1511 & 850, Mukin 6, Jalan Baru, Seberang Perai Tengah, 13600 Seberang Perai Pulau Pinang.",
+    "city": "Bukit Tengah",
+    "postcode": "13600",
+    "state": "Pulau Pinang",
+    "phone": "",
+    "latitude": 5.368468,
+    "longitude": 100.414512
+  },
+  {
+    "name": "MYDIN BUKIT SENTOSA",
+    "address": "NO 1-9, Jalan Seroja 1B/4, Seksyen BS6, Bandar Bukit Sentosa, 48300, Rawang, Selangor.",
+    "city": "Bukit Sentosa",
+    "postcode": "48300",
+    "state": "Selangor",
+    "phone": "1300-30-8786",
+    "latitude": 3.41737,
+    "longitude": 101.578066
+  },
+  {
+    "name": "MYDIN CHOW KIT EMPORIUM",
+    "address": "No. 398-400, Jalan Tunku Abdul Rahman, 50100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "postcode": "50100",
+    "state": "Kuala Lumpur",
+    "phone": "",
+    "latitude": 3.163677,
+    "longitude": 101.697951
+  },
+  {
+    "name": "MYDIN GONG BADAK HYPERMARKET",
+    "address": "Lot PT35511, KG Banggol, Jalan Gong Pak Damat, Gong Badak, 21200 Kuala Terengganu, Terengganu, Malaysia",
+    "city": "Kampung Batu Enam",
+    "postcode": "21200",
+    "state": "Terengganu",
+    "phone": "",
+    "latitude": 5.355429,
+    "longitude": 103.095503
+  },
+  {
+    "name": "MYDIN GURUN HYPERMARKET",
+    "address": "Lot G43A, Jerai Plaza, No. 1, Jalan Jerai Maju 1, Taman Jerai Maju, 08300 Gurun, Kedah",
+    "city": "Gurun",
+    "postcode": "08300",
+    "state": "Kedah",
+    "phone": "1300-30-8786",
+    "latitude": 5.818007,
+    "longitude": 100.482894
+  },
+  {
+    "name": "MYDIN JABI",
+    "address": "Lot 62412 & 62413 Kampung Jabi, Jerteh, 22020, Besut, Terengganu.",
+    "city": "Jabi",
+    "postcode": "62413",
+    "state": "Terengganu",
+    "phone": "1300-30-8786",
+    "latitude": 5.676844,
+    "longitude": 102.569216
+  },
+  {
+    "name": "MYDIN JASIN HYPERMARKET",
+    "address": "PT 8537, Seksyen 1, Bandar Jasin Bestari, Mukin Ayer, Panas,77200 Jasin, Melaka",
+    "city": "Bemban",
+    "postcode": "77200",
+    "state": "Melaka",
+    "phone": "",
+    "latitude": 2.280424,
+    "longitude": 102.39137
+  },
+  {
+    "name": "MYDIN JENGKA HYPERMARKET",
+    "address": "Lot 29972,Jalan Lintasan Semarak, Bandar Tun Abdul Razak, 26400",
+    "city": "Bandar Tun Abdul Razak, Bandar Jengka",
+    "postcode": "26400",
+    "state": "Pahang",
+    "phone": "",
+    "latitude": 3.772939,
+    "longitude": 102.543073
+  },
+  {
+    "name": "MYDIN KAJANG EMPORIUM",
+    "address": "No:7-12, Jalan Jelok 6(Off Jalan Semenyih) 43000 Kajang",
+    "city": "Sungai Chua",
+    "postcode": "43000",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.99115,
+    "longitude": 101.793877
+  },
+  {
+    "name": "MYDIN KLANG EMPORIUM",
+    "address": "Plaza MPK, Jalan Pos Baru, 45100 Klang, Selangor Darul Ehsan",
+    "city": "Klang",
+    "postcode": "45100",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.047652,
+    "longitude": 101.448716
+  },
+  {
+    "name": "MYDIN KLANG TENGKU KELANA",
+    "address": "No.111, Block 1, Jalan Tengku Kelana, 41000 Klang Selangor Darul Ehsan",
+    "city": "Klang",
+    "postcode": "41000",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.039985,
+    "longitude": 101.446951
+  },
+  {
+    "name": "MYDIN KOTA BHARU EMPORIUM",
+    "address": "Lot 69, 241-245, Seksyen 8, Jalan Pintu Pong, 15000 Kota Bharu,Kelantan",
+    "city": "Kota Bharu",
+    "postcode": "15000",
+    "state": "Kelantan",
+    "phone": "",
+    "latitude": 6.130484,
+    "longitude": 102.241418
+  },
+  {
+    "name": "MYDIN KUALA IBAI EMPORIUM",
+    "address": "Lot 1584, Jalan Tok Adis, Kuala Ibai,20400 Kuala Terengganu, Terengganu",
+    "city": "Kuala Terengganu",
+    "postcode": "20400",
+    "state": "Terengganu",
+    "phone": "",
+    "latitude": 5.284839,
+    "longitude": 103.16596
+  },
+  {
+    "name": "MYDIN KUALA TERENGGANU EMPORIUM",
+    "address": "No. 4128, 4129, 3721, Jalan Kedai Hilir (Jalan Kota), 20200 Kuala Terengganu, Terengganu",
+    "city": "Batu Buruk",
+    "postcode": "20200",
+    "state": "Terengganu",
+    "phone": "",
+    "latitude": 5.334871,
+    "longitude": 103.136645
+  },
+  {
+    "name": "MYDIN KUALA TERENGGANU HYPERMARKET",
+    "address": "Lot PT 1547 & PT 1548, Jalan Sultan Mohamad, 21000 Kuala Terengganu, Terengganu Darul Iman",
+    "city": "Kuala Terengganu",
+    "postcode": "21000",
+    "state": "Terengganu",
+    "phone": "",
+    "latitude": 5.311237,
+    "longitude": 103.130672
+  },
+  {
+    "name": "MYDIN KUANTAN EMPORIUM",
+    "address": "No.B-62-64-74,Lorong Tun Ismail 5, Tingkat Bawah, 1&2, 25000 Kuantan,Pahang",
+    "city": "Kuantan",
+    "postcode": "25000",
+    "state": "Pahang",
+    "phone": "",
+    "latitude": 3.811196,
+    "longitude": 103.325039
+  },
+  {
+    "name": "MYDIN KUBANG KERIAN HYPERMARKET",
+    "address": "Lot 1724 Seksyen 14, Jalan Raja Perempuan Zainab II, Kubang Kerian, 16150 Kota Bharu Kelantan.",
+    "city": "Kubang Kerian",
+    "postcode": "16150",
+    "state": "Kelantan",
+    "phone": "",
+    "latitude": 6.098265,
+    "longitude": 102.277914
+  },
+  {
+    "name": "MYDIN KULAI HYPERMARKET",
+    "address": "Lot 1.18A Kulai Hypermarket, Jalan Anggerik 8, Taman Kulai Utama, 81000 Kulai,Johor, Darul Takzim.",
+    "city": "Kulai",
+    "postcode": "81000",
+    "state": "Johor",
+    "phone": "",
+    "latitude": 1.663855,
+    "longitude": 103.597347
+  },
+  {
+    "name": "MYDIN KULIM HYPERMARKET",
+    "address": "Lot 4975, Ground Floor, Jalan Cendana, Taman Cendana, 09000 Kulim, Kedah",
+    "city": "Keladi",
+    "postcode": "09000",
+    "state": "Kedah",
+    "phone": "",
+    "latitude": 5.378284,
+    "longitude": 100.543228
+  },
+  {
+    "name": "MYDIN MAIN BRANCH",
+    "address": "Maybank, Mydin Mall USJ, USJ 1, UEP Subang Jaya, Puchong, Majlis Bandaraya Subang Jaya, Petaling, Selangor, 47610",
+    "city": "Puchong",
+    "postcode": "47610",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.059213,
+    "longitude": 101.596437
+  },
+  {
+    "name": "MYDIN MANJOI HYPERMARKET",
+    "address": "Lorong Pasar , Kg Sungai Tapah, Gugusan Manjoi, 30020 Ipoh, Perak Darul Ridzuan",
+    "city": "Manjoi",
+    "postcode": "30020",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 4.623961,
+    "longitude": 101.06925
+  },
+  {
+    "name": "MYDIN MART ALAM SURIA",
+    "address": "17-1, Jalan Dataran Suria 15/7/1, Bandar Puncak Alam, 42300 Bandar Puncak Alam, Selangor",
+    "city": "Bandar Puncak Alam",
+    "postcode": "42300",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.240875,
+    "longitude": 101.41232
+  },
+  {
+    "name": "MYDIN MART BAGAN DATUK",
+    "address": "Wisma UMNO Bagan Datuk, Tingkat Bawah, Jalan Simpang Empat, Bagan Datuk, 36400, Hutan Melintang,Perak.",
+    "city": "Hutan Melintang",
+    "postcode": "36400",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 3.895813,
+    "longitude": 100.93365
+  },
+  {
+    "name": "MYDIN MART BALAKONG JAYA",
+    "address": "No. 9, 11 & 13, Jalan Balakong Jaya 2, Taman Balakong Jaya, 43300 Seri Kembangan, Selangor",
+    "city": "Cheras",
+    "postcode": "43300",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.005473,
+    "longitude": 101.736774
+  },
+  {
+    "name": "MYDIN MART BANGI",
+    "address": "No.7, 9, 11, 11A & 15, Jalan 7/7A, Seksyen 7, 43650 Bandar Baru Bangi, Selangor Darul Ehsan, Selangor, 43650",
+    "city": "Bandar Baru Bangi",
+    "postcode": "43650",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.969304,
+    "longitude": 101.773873
+  },
+  {
+    "name": "MYDIN MART BUKIT JELUTONG",
+    "address": "No.46 & 8, Jalan Pelapik CU8/C,Seksyen U8, Bukit Jelutong, 40150 Shah Alam, Selangor",
+    "city": "Bukit Jelutong",
+    "postcode": "40150",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.115058,
+    "longitude": 101.526313
+  },
+  {
+    "name": "MYDIN MART BUKIT KUDA",
+    "address": "No. 34, 36, 38 & 40, Jalan Bukit Kuda 1/KU1, Taman Bukit Kuda, 41300, Klang, Selangor, Malaysia",
+    "city": "Klang",
+    "postcode": "41300",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.052037,
+    "longitude": 101.467549
+  },
+  {
+    "name": "MYDIN MART DANAU SAUJANA",
+    "address": "LOT G22, PV12, PLATINUM LAKE CONDOMINIUM, NO.6, JALAN LANGKAWI, 53300, SETAPAK, KUALA LUMPUR",
+    "city": "Setapak",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "phone": "",
+    "latitude": 3.206811,
+    "longitude": 101.717799
+  },
+  {
+    "name": "MYDIN MART DESA LATANIA",
+    "address": "16 & 18, Jalan Nagasari, E36, E Seksyen 36, Desa Latania, 40460 Shah Alam, Selangor",
+    "city": "Klang",
+    "postcode": "40460",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.025309,
+    "longitude": 101.482088
+  },
+  {
+    "name": "MYDIN MART KOTA SERIEMAS",
+    "address": "LOT 41, KOTA SERIEMAS, LABU, 71800, NILAI, NEGERI SEMBILAN",
+    "city": "Nilai",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "phone": "",
+    "latitude": 2.773899,
+    "longitude": 101.766158
+  },
+  {
+    "name": "MYDIN MART LAGENDA SURIA",
+    "address": "No.65,67,69,71,73,75 & 77, Jalan Lagenda Suria 1, Taman Legenda Suria, 43100 Hulu Langat, Selangor Darul Ehsan., Selangor, 43100",
+    "city": "Batu 14 Hulu Langat",
+    "postcode": "43100",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.097675,
+    "longitude": 101.800359
+  },
+  {
+    "name": "MYDIN MART OLAK LEMPIT",
+    "address": "16, 18 & 20-G, Jalan Camar 22, Taman Cenderawasih, Kampung Olak Lempit, 42700, Banting, Selangor",
+    "city": "Kuala Langat",
+    "postcode": "42700",
+    "state": "Selangor",
+    "phone": "1300-30-8786",
+    "latitude": 2.833635,
+    "longitude": 101.603604
+  },
+  {
+    "name": "MYDIN MART PADANG JAWA",
+    "address": "G01, Ground Floor & F13A-27, FK1-22 First Floor, Suria Jaya, Jalan Padang Jawa' Seksyen 16, 40200, Shah Alam, Selangor",
+    "city": "Klang",
+    "postcode": "40200",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.054634,
+    "longitude": 101.491339
+  },
+  {
+    "name": "MYDIN MART PANTAI DALAM",
+    "address": "Lot 51624, Jalan Pantai Dalam, Taman Pantai Indah",
+    "city": "Pantai Dalam",
+    "postcode": "",
+    "state": "Kuala Lumpur",
+    "phone": "",
+    "latitude": 3.093885,
+    "longitude": 101.669205
+  },
+  {
+    "name": "MYDIN MART PUNCAK JALIL",
+    "address": "No.8, 10, 12, 14, 16 & 18, Jalan PUJ 3/2, Taman Puncak Jalil, 43300 Seri Kembangan, Selangor., Selangor, 43300",
+    "city": "Seri Kembangan",
+    "postcode": "43300",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.016746,
+    "longitude": 101.675574
+  },
+  {
+    "name": "MYDIN MART RAJA MUDA MUSA",
+    "address": "Lot No. 1-9, Ground Floor, Jalan Sentul, Off Persiaran, Raja Muda Musa, 42000 Port Klang, Selangor Darul Ehsan",
+    "city": "Pelabuhan Klang",
+    "postcode": "42000",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.034792,
+    "longitude": 101.411217
+  },
+  {
+    "name": "MYDIN MART SEKSYEN 13",
+    "address": "Unit 9, Lot 1715, No 7 Jalan Rugbi 13/30, Seksyen 13, 40100 Shah Alam, Selangor Darul Ehsan",
+    "city": "Bukit Jelutong",
+    "postcode": "40100",
+    "state": "Selangor",
+    "phone": "1300-30-8786",
+    "latitude": 3.088565,
+    "longitude": 101.547444
+  },
+  {
+    "name": "MYDIN MART SEMENYIH",
+    "address": "NO. 1, 3, 5, 7 & 9, Jalan Pasar Baru, 43500 Semenyih, Selangor Darul Ehsan, Selangor, 43500",
+    "city": "Semenyih",
+    "postcode": "43500",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.946251,
+    "longitude": 101.846668
+  },
+  {
+    "name": "MYDIN MART SHAH ALAM",
+    "address": "No.4-16, Jalan Pinang G 18/G, Seksyen 18, 40200 Shah Alam, Selangor Darul Ehsan",
+    "city": "Petaling",
+    "postcode": "40200",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.045238,
+    "longitude": 101.515747
+  },
+  {
+    "name": "MYDIN MART SRI MUDA",
+    "address": "No.4-20, Jalan Ria 25/62, Taman Sri Muda, Seksyen 25, 40400, Shah Alam,Selangor Darul Ehsan",
+    "city": "Taman Sri Muda",
+    "postcode": "40400",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.030134,
+    "longitude": 101.535345
+  },
+  {
+    "name": "MYDIN MART SUBANG ANGSANA",
+    "address": "D1-01-06, Persiaran Subang Mewah, USJ1",
+    "city": "Puchong",
+    "postcode": "",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.051009,
+    "longitude": 101.600534
+  },
+  {
+    "name": "MYDIN MART TAMAN CAHAYA",
+    "address": "29-31, Jalan Persiaran Cahaya 1, Taman Cahaya, 68000 Ampang, Selangor Darul Ehsan.",
+    "city": "Pandan Indah",
+    "postcode": "68000",
+    "state": "Selangor",
+    "phone": "1300-30-8786",
+    "latitude": 3.140935,
+    "longitude": 101.756477
+  },
+  {
+    "name": "MYDIN MART TAMAN KINRARA",
+    "address": "No.14161820 & 22, Jalan TK 4/5, Taman Kinrara 4, 47100 Puchong, Selangor",
+    "city": "Puchong",
+    "postcode": "47100",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.066595,
+    "longitude": 101.638706
+  },
+  {
+    "name": "MYDIN MASJID INDIA EMPORIUM",
+    "address": "No: 95&97, Wisma Mydin, Jalan Masjid India, 50100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "postcode": "50100",
+    "state": "Kuala Lumpur",
+    "phone": "",
+    "latitude": 3.152809,
+    "longitude": 101.697401
+  },
+  {
+    "name": "MYDIN MELAKA BAZAAR",
+    "address": "1st Floor, Bazaar Melaka Sentral, Jalan Tun Abdul Razak, Peringgit,75300 Melaka",
+    "city": "Melaka Tengah",
+    "postcode": "75300",
+    "state": "Melaka",
+    "phone": "",
+    "latitude": 2.220192,
+    "longitude": 102.251604
+  },
+  {
+    "name": "MYDIN MELAKA EMPORIUM",
+    "address": "No.2A-26,Jalan PMS 3 Plaza Melaka Sentral 75400 Melaka",
+    "city": "Melaka Tengah",
+    "postcode": "75400",
+    "state": "Melaka",
+    "phone": "",
+    "latitude": 2.223164,
+    "longitude": 102.249429
+  },
+  {
+    "name": "MYDIN MELAKA HYPERMARKET",
+    "address": "No.12, Mydin Mall MITC Hang Tuah Jaya, 75450 Ayer Keroh, Melaka",
+    "city": "Ayer Keroh",
+    "postcode": "75450",
+    "state": "Melaka",
+    "phone": "",
+    "latitude": 2.270877,
+    "longitude": 102.292626
+  },
+  {
+    "name": "MYDIN MERU RAYA HYPERMARKET",
+    "address": "PT 229142, Jalan Meru Bestari B2, Bandar Meru Raya, 30020 Ipoh, Jelapang, Perak Darul Ridzuan",
+    "city": "Meru Raya",
+    "postcode": "30020",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 4.671212,
+    "longitude": 101.074546
+  },
+  {
+    "name": "MYDIN MUTIARA RINI HYPERMARKET",
+    "address": "No. 7, Persiaran Jaya 1, Taman Mutiara Rini, 81300 Skudai, Johor Darul Takzim.",
+    "city": "Skudai",
+    "postcode": "81300",
+    "state": "Johor",
+    "phone": "",
+    "latitude": 1.515417,
+    "longitude": 103.635169
+  },
+  {
+    "name": "MYDIN MYDIN SELAYANG EMPORIUM",
+    "address": "No: 10-16, Jalan SU/12, 68100 Taman Selayang Utama, Selangor Darul Ehsan",
+    "city": "Gombak",
+    "postcode": "68100",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.238229,
+    "longitude": 101.643605
+  },
+  {
+    "name": "MYDIN PARIT BUNTAR HYPERMARKET",
+    "address": "Kerian Sentral Mall, Lot 23252, Jalan Sekolah, Parit Buntar, 34200, Perak Darul Ridzuan.",
+    "city": "Mukim Parit Buntar",
+    "postcode": "34200",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 5.126763,
+    "longitude": 100.482624
+  },
+  {
+    "name": "MYDIN PASIR MAS SUPERMARKET",
+    "address": "Lot 660C, Jalan Masjid Lama, Seksyen 1, 17000 Pasir Mas, Kelantan.",
+    "city": "Pasir Mas",
+    "postcode": "17000",
+    "state": "Kelantan",
+    "phone": "",
+    "latitude": 6.041677,
+    "longitude": 102.142861
+  },
+  {
+    "name": "MYDIN PEKAN EMPORIUM",
+    "address": "No.1-5 Lot 14,Seksyen 7, Jalan Engku Muda Mansor, 26600 Bandar Diraja Pekan, Pahang",
+    "city": "Kampung Parit Tengah",
+    "postcode": "26600",
+    "state": "Pahang",
+    "phone": "",
+    "latitude": 3.489527,
+    "longitude": 103.395165
+  },
+  {
+    "name": "MYDIN PELANGI INDAH HYPERMARKET",
+    "address": "PTD 120470, Persiaran Pelangi Indah, Taman Pelangi Indah, 81800 Ulu Tiram Johor, Malaysia.",
+    "city": "Ulu Tiram",
+    "postcode": "81800",
+    "state": "Johor",
+    "phone": "",
+    "latitude": 1.570776,
+    "longitude": 103.799525
+  },
+  {
+    "name": "MYDIN PENANG ROAD EMPORIUM",
+    "address": "No.258 Penang Road, 10000 Penang, Penang",
+    "city": "Central George Town",
+    "postcode": "10000",
+    "state": "Pulau Pinang",
+    "phone": "",
+    "latitude": 5.418833,
+    "longitude": 100.331405
+  },
+  {
+    "name": "MYDIN PULAU SEBANG",
+    "address": "Lot No. PT20 & PT2053, Town of Pulau Sebang, Section 11, Mukim of Pulau Sebang, Alor Gajah, 73000 Melaka., Melaka.",
+    "city": "Pulau Sebang",
+    "postcode": "73000",
+    "state": "Melaka",
+    "phone": "",
+    "latitude": 2.462722,
+    "longitude": 102.23134
+  },
+  {
+    "name": "MYDIN PUTRAJAYA BAZAAR",
+    "address": "No 40-54, Jalan Diplomatik Presint 15, 62130 Putrajaya, Selangor Darul Ehsan",
+    "city": "Putrajaya",
+    "postcode": "62130",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.945323,
+    "longitude": 101.722929
+  },
+  {
+    "name": "MYDIN RANTAU PANJANG EMPORIUM",
+    "address": "PT 333-339 Kompleks Kedai Baru, Kawasan Bebas Cukai, 17200, Rantau Panjang,Kelantan",
+    "city": "Rantau Panjang",
+    "postcode": "17200",
+    "state": "Kelantan",
+    "phone": "",
+    "latitude": 6.018228,
+    "longitude": 101.975515
+  },
+  {
+    "name": "MYDIN RAWANG EMPORIUM",
+    "address": "No.1.11, Lot 646-651 Jalan Bandar Baru Rawang 8, 48000 Rawang,Selangor Darul Ehsan",
+    "city": "Rawang",
+    "postcode": "48000",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.319447,
+    "longitude": 101.578701
+  },
+  {
+    "name": "MYDIN SAMARIANG",
+    "address": "Lot 8637, Block 9, Lorong Cahaya 4, Salak Land District, Jalan Sultan Tengah, 93050 Kuching, Sarawak",
+    "city": "Petra Jaya",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "phone": "",
+    "latitude": 1.637772,
+    "longitude": 110.340165
+  },
+  {
+    "name": "MYDIN SEGAMBUT",
+    "address": "NO 6-01, Residensi Sungai Udang, No 8 Pintasan Segambut, 52200, Segambut, Kuala Lumpur.",
+    "city": "Kepong",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "phone": "1300-30-8786",
+    "latitude": 3.194426,
+    "longitude": 101.659965
+  },
+  {
+    "name": "MYDIN SEJATI UJANA HYPERMARKET",
+    "address": "Sejati Ujana Apartment, Mydin, Lor Sejati Ujana 2, Batu 7, 90000 Sandakan, Sabah",
+    "city": "Batu 7 1/2",
+    "postcode": "90000",
+    "state": "Sabah",
+    "phone": "",
+    "latitude": 5.892012,
+    "longitude": 118.054803
+  },
+  {
+    "name": "MYDIN SEMENYIH HYPERMARKET",
+    "address": "Lot 21452,Jalan Anggerik Perdana 1, Taman Anggerik Perdana, 43500 Semenyih, Selangor.",
+    "city": "Semenyih",
+    "postcode": "43500",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.97543,
+    "longitude": 101.824974
+  },
+  {
+    "name": "MYDIN SENAWANG HYPERMARKET",
+    "address": "No 110, Jalan BPS 7, Taman Senawang Indah, 70450 Seremban Negeri Sembilan",
+    "city": "Senawang",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "phone": "",
+    "latitude": 2.701172,
+    "longitude": 101.980124
+  },
+  {
+    "name": "MYDIN SEREMBAN 2 HYPERMARKET",
+    "address": "Lot 31156, Persiaran S2 B7, Seremban 2, 70300 Seremban, Negeri Sembilan Darul Khusus",
+    "city": "Seremban 2",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "phone": "",
+    "latitude": 2.695633,
+    "longitude": 101.905133
+  },
+  {
+    "name": "MYDIN SEREMBAN ONLINE FC",
+    "address": "Loading Bay 5, Lot 31156, Persiaran S2 B7,Seremban 2, 70300, Seremban, Negeri Sembilan",
+    "city": "Seremban 2",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "phone": "",
+    "latitude": 2.695633,
+    "longitude": 101.905133
+  },
+  {
+    "name": "MYDIN SERENE SQUARE",
+    "address": "Lot 39,41,43,45,& 47, Jalan Dataran Serene 1/7, Serene Heights, 43500, Semenyih, Selangor.",
+    "city": "Bangi Lama",
+    "postcode": "43500",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 2.918855,
+    "longitude": 101.813929
+  },
+  {
+    "name": "MYDIN SINAR KOTA EMPORIUM",
+    "address": "Bangunan Sinar Kota, Jalan Tun Perak, 50050 Kuala Lumpur",
+    "city": "Bukit Bintang",
+    "postcode": "50050",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 3.146807,
+    "longitude": 101.698728
+  },
+  {
+    "name": "MYDIN SUBANG JAYA HYPERMARKET",
+    "address": "Lot No. 675 & 676, Persiaran Subang Permai, USJ 1",
+    "city": "Puchong",
+    "postcode": "",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.059213,
+    "longitude": 101.596437
+  },
+  {
+    "name": "MYDIN TAMAN BATIK",
+    "address": "No. 1, Jalan Batik 2/2A, Taman Batik, 08000, Sungai Petani, Kedah.",
+    "city": "Bandar Mutiara",
+    "postcode": "08000",
+    "state": "Kedah",
+    "phone": "",
+    "latitude": 5.632908,
+    "longitude": 100.538009
+  },
+  {
+    "name": "MYDIN TAMAN RINTING",
+    "address": "PTD 92368, JALAN RINTING, MUKIM PLENTONG, TAMAN RINTING, 81750, MASAI, JOHOR",
+    "city": "Masai",
+    "postcode": "92368",
+    "state": "Johor",
+    "phone": "",
+    "latitude": 1.491005,
+    "longitude": 103.867028
+  },
+  {
+    "name": "MYDIN TAMAN SAGA BAZAAR",
+    "address": "888, Jln Alor Mengkudu, Kg Alor Mengkudu, 05400 Alor Setar,Kedah Darul Aman",
+    "city": "Kota Setar",
+    "postcode": "05400",
+    "state": "Kedah",
+    "phone": "",
+    "latitude": 6.092869,
+    "longitude": 100.383281
+  },
+  {
+    "name": "MYDIN TASIK PUTERI",
+    "address": "No 9 & 11, Jalan 7A/3, Bandar Tasik Puteri, 48020, Rawang, Selangor.",
+    "city": "Bandar Tasik Puteri",
+    "postcode": "48020",
+    "state": "Selangor",
+    "phone": "1300-30-8786",
+    "latitude": 3.285871,
+    "longitude": 101.472926
+  },
+  {
+    "name": "MYDIN TUNJONG HYPERMARKET",
+    "address": "Lot PT 666, Jalan Kuala Krai, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "city": "Wakaf Che Yeh",
+    "postcode": "16010",
+    "state": "Kelantan",
+    "phone": "",
+    "latitude": 6.0707,
+    "longitude": 102.2409
+  },
+  {
+    "name": "MYDIN TUNKU VISTA",
+    "address": "Lot 9512, Block 18 Salak Land District, Jalan Demak, 93050 Kuching, Petrajaya, Kuching, Sarawak",
+    "city": "Petra Jaya",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "phone": "",
+    "latitude": 1.570453,
+    "longitude": 110.359511
+  },
+  {
+    "name": "MYDIN WHOLESALE TEMAN GOPENG",
+    "address": "RTC Perak, Kawasan Perindustrian Gopeng 2, KM 16, Jalan Gopeng, 31600 Gopeng, Perak Darul Ridzuan",
+    "city": "Kinta",
+    "postcode": "31600",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 4.493919,
+    "longitude": 101.153176
+  },
+  {
+    "name": "MYMART MALL USJ",
+    "address": "Lot No. 675 & 676, Persiaran Subang Permai, USJ 1",
+    "city": "Puchong",
+    "postcode": "",
+    "state": "Selangor",
+    "phone": "",
+    "latitude": 3.059213,
+    "longitude": 101.596437
+  },
+  {
+    "name": "MYMART TAMAN GOPENG",
+    "address": "Kawasan Perindustrian Gopeng 2,KM 16, Jalan Gopeng",
+    "city": "Kinta",
+    "postcode": "",
+    "state": "Perak",
+    "phone": "",
+    "latitude": 4.493919,
+    "longitude": 101.153176
+  },
+  {
+    "name": "SAMS GROCERIA NU CENTRAL",
+    "address": "NU Sentral, Jalan Tun Sambanthan, Kuala Lumpur Sentral, 50470, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Seputeh",
+    "postcode": "50470",
+    "state": "Kuala Lumpur",
+    "phone": "",
+    "latitude": 3.132958,
+    "longitude": 101.687073
+  },
+  {
+    "name": "SAMS GROCERIA STRAITS QUAY",
+    "address": "Unit No.3G-G-5 To 8 & 3G-G-12 To 13A, Block G, Straits Quay, 10470, Tanjung Tokong, Pulau Pinang",
+    "city": "Tanjong Pinang",
+    "postcode": "10470",
+    "state": "Pulau Pinang",
+    "phone": "",
+    "latitude": 5.458099,
+    "longitude": 100.31285
+  }
+]
